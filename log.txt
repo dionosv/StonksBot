@@ -1,0 +1,2941 @@
+---Stonksbot Log---
+
+[27-Feb-2022]	[14:49:31] osvaldo#8952 Requesting info in Nekone
+[27-Feb-2022]	[14:49:35] osvaldo#8952 Delete 900 messages on Nekone
+[27-Feb-2022]	[14:50:31] osvaldo#8952 Set coin to BITCOIN
+[27-Feb-2022]	[14:59:26] ---SYSTEM--- StonksBot#2363 is ready
+[27-Feb-2022]	[15:01:23] osvaldo#8952 Set news 'Semacom Integrated (SEMA) Catatkan Laba Bersih Rp ....'
+[27-Feb-2022]	[15:01:58] osvaldo#8952 Broadcast news
+[27-Feb-2022]	[15:08:54] ---SYSTEM--- StonksBot#2363 is ready
+[27-Feb-2022]	[15:09:09] osvaldo#8952 Set coin to ETHEREUM
+[27-Feb-2022]	[15:10:12] ---SYSTEM--- StonksBot#2363 is ready
+[27-Feb-2022]	[15:11:40] ---SYSTEM--- StonksBot#2363 is ready
+[27-Feb-2022]	[15:11:41] osvaldo#8952 Set coin to Bitcoin
+[27-Feb-2022]	[15:12:11] ---SYSTEM--- StonksBot#2363 is ready
+[27-Feb-2022]	[15:12:13] osvaldo#8952 Set coin to Ethereum
+[27-Feb-2022]	[15:13:18] osvaldo#8952 Set coin to Bitcoin
+[28-Feb-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:26:04] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:27:12] osvaldo#8952 Ask ADCP on osvaldo's server
+[28-Feb-2022]	[13:27:19] osvaldo#8952 Ask ASLC on osvaldo's server
+[28-Feb-2022]	[13:30:28] osvaldo#8952 Turned Off Reminder
+[28-Feb-2022]	[13:32:42] osvaldo#8952 Turned On Reminder
+[28-Feb-2022]	[13:33:24] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:33:50] osvaldo#8952 Showing bot crypto status
+[28-Feb-2022]	[13:34:45] osvaldo#8952 Set coin to Ethereum
+[28-Feb-2022]	[13:35:00] osvaldo#8952 Turned Off Reminder
+[28-Feb-2022]	[13:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:40:55] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:41:06] osvaldo#8952 Set news 'test 123 test 123....'
+[28-Feb-2022]	[13:42:36] osvaldo#8952 Set news 'KONTAN.CO.ID - JAKARTA. Indeks Harga Saham Gabunga....'
+[28-Feb-2022]	[13:43:04] osvaldo#8952 Broadcast news
+[28-Feb-2022]	[13:44:18] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[13:44:30] osvaldo#8952 Set news '123456....'
+[28-Feb-2022]	[13:44:35] osvaldo#8952 Set news '6667981798....'
+[28-Feb-2022]	[13:44:51] osvaldo#8952 Set news 'as4d5ad4a646d....'
+[28-Feb-2022]	[13:47:06] osvaldo#8952 Set news 'KONTAN.CO.ID - JAKARTA. Harga emas bergerak makin ....'
+[28-Feb-2022]	[13:47:10] osvaldo#8952 Broadcast news
+[28-Feb-2022]	[13:49:04] osvaldo#8952 Set news 'KONTAN.CO.ID - NEW YORK. Harga minyak melonjak set....'
+[28-Feb-2022]	[13:49:13] osvaldo#8952 Broadcast news
+[28-Feb-2022]	[13:57:23] osvaldo#8952 Request bot invitation link on osvaldo's server
+[28-Feb-2022]	[15:39:31] osvaldo#8952 Turned On Reminder
+[28-Feb-2022]	[15:41:35] ---SYSTEM--- StonksBot#2363 is ready
+[28-Feb-2022]	[15:41:48] osvaldo#8952 Showing bot crypto status
+[28-Feb-2022]	[15:41:56] osvaldo#8952 Set coin to Bitcoin
+[01-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[14:16:02] osvaldo#8952 Set SMDR plan on trade
+[02-Mar-2022]	[14:16:32] osvaldo#8952 Set BULL plan on trade
+[02-Mar-2022]	[21:43:02] osvaldo#8952 Set ABBA plan on trade
+[02-Mar-2022]	[21:45:57] osvaldo#8952 Set JPFA plan on trade
+[02-Mar-2022]	[21:48:14] osvaldo#8952 Set MPMX plan on trade
+[02-Mar-2022]	[21:50:47] osvaldo#8952 Displaying watchlist on trade
+[02-Mar-2022]	[21:57:18] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[21:57:21] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[21:58:15] osvaldo#8952 Set MPMX plan on osvaldo's server
+[02-Mar-2022]	[21:58:17] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[21:58:28] osvaldo#8952 Set BBCA plan on osvaldo's server
+[02-Mar-2022]	[21:58:29] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[21:58:46] osvaldo#8952 Removing BBCA on osvaldo's server
+[02-Mar-2022]	[21:58:48] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:02:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:02:15] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:02:18] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:03:06] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:03:10] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:03:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:04:12] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:04:15] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:04:17] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:11:10] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:11:13] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:11:50] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:12:03] osvaldo#8952 Set BBCA plan on osvaldo's server
+[02-Mar-2022]	[22:18:31] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:18:33] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:18:34] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:19:04] osvaldo#8952 Reset watchlist on osvaldo's server
+[02-Mar-2022]	[22:19:11] osvaldo#8952 Set BGTG plan on osvaldo's server
+[02-Mar-2022]	[22:19:13] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:19:57] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:20:00] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:20:00] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:22:00] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:40:06] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:40:09] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:40:14] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:40:37] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:40:40] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:45:10] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:45:13] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:45:27] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:46:17] osvaldo#8952 Displaying watchlist on trade
+[02-Mar-2022]	[22:49:16] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:49:18] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:49:20] osvaldo#8952 Displaying watchlist on trade
+[02-Mar-2022]	[22:49:24] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[22:49:31] osvaldo#8952 Set BGTG plan on Nekone
+[02-Mar-2022]	[22:49:32] osvaldo#8952 Displaying watchlist on Nekone
+[02-Mar-2022]	[22:58:19] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[22:58:22] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[22:58:27] osvaldo#8952 Displaying watchlist on Nekone
+[02-Mar-2022]	[22:58:32] osvaldo#8952 Displaying watchlist on Nekone
+[02-Mar-2022]	[23:04:56] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[23:04:59] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[23:05:04] osvaldo#8952 Displaying watchlist on Nekone
+[02-Mar-2022]	[23:06:56] osvaldo#8952 Displaying watchlist on osvaldo's server
+[02-Mar-2022]	[23:08:52] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-Mar-2022]	[23:08:55] ---SYSTEM--- StonksBot#2363 is ready
+[02-Mar-2022]	[24:49:16] osvaldo#8952 Showing bot crypto status
+[03-Mar-2022]	[7:29:48] ---SYSTEM--- StonksBot#2363 is ready
+[03-Mar-2022]	[8:35:00] ---SYSTEM--- Day Off Stock Market Closed Today !
+[03-Mar-2022]	[8:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Mar-2022]	[13:10:23] osvaldo#8952 Showing bot crypto status
+[03-Mar-2022]	[13:11:56] osvaldo#8952 Displaying watchlist on Nekone
+[03-Mar-2022]	[13:12:06] osvaldo#8952 Set BBCA plan on Nekone
+[03-Mar-2022]	[13:12:12] osvaldo#8952 Displaying watchlist on Nekone
+[03-Mar-2022]	[20:11:33] osvaldo#8952 Delete 90 messages on Nekone
+[03-Mar-2022]	[22:23:40] osvaldo#8952 Turned On Reminder
+[03-Mar-2022]	[24:16:38] osvaldo#8952 Set coin to Ethereum
+[04-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[04-Mar-2022]	[12:02:42] osvaldo#8952 Requesting info in Nekone
+[04-Mar-2022]	[12:02:55] osvaldo#8952 Displaying watchlist on Nekone
+[04-Mar-2022]	[12:03:13] osvaldo#8952 Reset watchlist on Nekone
+[04-Mar-2022]	[14:21:53] osvaldo#8952 Set ERAA plan on trade
+[04-Mar-2022]	[16:19:21] osvaldo#8952 Delete 90 messages on osvaldo's server
+[04-Mar-2022]	[16:45:11] osvaldo#8952 Set coin to Bitcoin
+[04-Mar-2022]	[22:52:56] osvaldo#8952 Set coin to Ethereum
+[05-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[9:02:40] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[9:41:53] osvaldo#8952 Set coin to Bitcoin
+[05-Mar-2022]	[12:12:12] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[12:13:35] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[12:13:49] osvaldo#8952 Downloading Binance Coin List
+[05-Mar-2022]	[12:49:11] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[12:51:02] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[12:51:22] osvaldo#8952 Set coin to 10
+[05-Mar-2022]	[12:51:26] osvaldo#8952 Showing bot crypto status
+[05-Mar-2022]	[12:51:50] osvaldo#8952 Set coin to 11
+[05-Mar-2022]	[12:59:01] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:27:11] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:27:55] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:30:10] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:30:23] osvaldo#8952 Requesting info in Nekone
+[05-Mar-2022]	[13:31:42] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:32:36] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:32:39] osvaldo#8952 Downloading Binance Coin List
+[05-Mar-2022]	[13:32:47] osvaldo#8952 Set coin to ethusdt
+[05-Mar-2022]	[13:34:05] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:34:40] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:36:14] osvaldo#8952 Showing bot crypto status
+[05-Mar-2022]	[13:37:02] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:37:06] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[13:45:22] ---SYSTEM--- StonksBot#2363 is ready
+[05-Mar-2022]	[13:45:35] osvaldo#8952 Set coin to SXPUSDT
+[05-Mar-2022]	[13:46:03] osvaldo#8952 Set coin to AUDUSDT
+[05-Mar-2022]	[13:46:23] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[13:58:04] osvaldo#8952 Set coin to SXPUSDT
+[05-Mar-2022]	[13:58:12] osvaldo#8952 Set coin to ETHUSDT
+[05-Mar-2022]	[14:12:09] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[14:46:28] osvaldo#8952 Delete 90 messages on osvaldo's server
+[05-Mar-2022]	[14:46:47] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:46:47] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:46:47] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:46:47] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:46:48] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:46:53] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:46:53] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:46:53] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:46:54] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:46:54] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:46:59] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:46:59] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:46:59] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:46:59] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:46:59] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:47:05] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[14:47:06] osvaldo#8952 Set BUKA plan on osvaldo's server
+[05-Mar-2022]	[14:47:06] osvaldo#8952 Set SIMP plan on osvaldo's server
+[05-Mar-2022]	[14:47:06] osvaldo#8952 Set MYOR plan on osvaldo's server
+[05-Mar-2022]	[14:47:06] osvaldo#8952 Set PADI plan on osvaldo's server
+[05-Mar-2022]	[14:47:11] osvaldo#8952 Set PALM plan on osvaldo's server
+[05-Mar-2022]	[14:47:11] osvaldo#8952 Set PPRO plan on osvaldo's server
+[05-Mar-2022]	[14:47:12] osvaldo#8952 Set PPRE plan on osvaldo's server
+[05-Mar-2022]	[14:47:12] osvaldo#8952 Set OKAS plan on osvaldo's server
+[05-Mar-2022]	[14:47:12] osvaldo#8952 Set OILS plan on osvaldo's server
+[05-Mar-2022]	[14:47:17] osvaldo#8952 Set NOBU plan on osvaldo's server
+[05-Mar-2022]	[14:47:17] osvaldo#8952 Set NETV plan on osvaldo's server
+[05-Mar-2022]	[14:48:32] osvaldo#8952 Displaying watchlist on trade
+[05-Mar-2022]	[14:48:46] osvaldo#8952 Requesting info in osvaldo's server
+[05-Mar-2022]	[14:49:15] osvaldo#8952 Request bot invitation link on osvaldo's server
+[05-Mar-2022]	[14:49:30] ADMIN Stonksbot invited to osvaldo's server
+[05-Mar-2022]	[14:49:44] osvaldo#8952 Delete 9999 messages on osvaldo's server
+[05-Mar-2022]	[14:49:53] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:49:54] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:49:55] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:49:56] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:49:58] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:49:59] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:50:00] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:50:01] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:50:02] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:50:03] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:50:05] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:50:06] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:50:07] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:50:09] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:50:10] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:50:11] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[14:50:12] osvaldo#8952 Set BUKA plan on osvaldo's server
+[05-Mar-2022]	[14:50:13] osvaldo#8952 Set SIMP plan on osvaldo's server
+[05-Mar-2022]	[14:50:15] osvaldo#8952 Set MYOR plan on osvaldo's server
+[05-Mar-2022]	[14:50:16] osvaldo#8952 Set PADI plan on osvaldo's server
+[05-Mar-2022]	[14:50:17] osvaldo#8952 Set PALM plan on osvaldo's server
+[05-Mar-2022]	[14:50:18] osvaldo#8952 Set PPRO plan on osvaldo's server
+[05-Mar-2022]	[14:50:20] osvaldo#8952 Set PPRE plan on osvaldo's server
+[05-Mar-2022]	[14:50:21] osvaldo#8952 Set OKAS plan on osvaldo's server
+[05-Mar-2022]	[14:50:22] osvaldo#8952 Set OILS plan on osvaldo's server
+[05-Mar-2022]	[14:50:23] osvaldo#8952 Set NOBU plan on osvaldo's server
+[05-Mar-2022]	[14:50:24] osvaldo#8952 Set NETV plan on osvaldo's server
+[05-Mar-2022]	[14:50:26] osvaldo#8952 Set PNIN plan on osvaldo's server
+[05-Mar-2022]	[14:50:27] osvaldo#8952 Set PNLF plan on osvaldo's server
+[05-Mar-2022]	[14:50:28] osvaldo#8952 Set PSGO plan on osvaldo's server
+[05-Mar-2022]	[14:51:18] osvaldo#8952 Requesting info in osvaldo's server
+[05-Mar-2022]	[14:51:24] osvaldo#8952 Request bot invitation link on osvaldo's server
+[05-Mar-2022]	[14:51:36] ADMIN Stonksbot invited to osvaldo's server
+[05-Mar-2022]	[14:51:48] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:51:49] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:51:50] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:51:51] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:51:53] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:51:54] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:51:55] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:51:57] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:51:58] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:51:59] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:52:00] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:52:01] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:52:03] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:52:04] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:52:05] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:52:06] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[14:52:09] osvaldo#8952 Displaying watchlist on osvaldo's server
+[05-Mar-2022]	[14:52:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[05-Mar-2022]	[14:53:38] osvaldo#8952 Reset watchlist on osvaldo's server
+[05-Mar-2022]	[14:54:05] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:54:06] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:54:08] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:54:09] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:54:10] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:54:11] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:54:12] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:54:14] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:54:15] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:54:16] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:54:17] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:54:19] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:54:20] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:54:21] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:54:22] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:54:23] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[14:54:25] osvaldo#8952 Set BUKA plan on osvaldo's server
+[05-Mar-2022]	[14:54:26] osvaldo#8952 Set SIMP plan on osvaldo's server
+[05-Mar-2022]	[14:54:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[05-Mar-2022]	[14:54:58] osvaldo#8952 Removing AGRO on osvaldo's server
+[05-Mar-2022]	[14:54:59] osvaldo#8952 Removing BBCA on osvaldo's server
+[05-Mar-2022]	[14:55:01] osvaldo#8952 Removing ARTO on osvaldo's server
+[05-Mar-2022]	[14:55:01] osvaldo#8952 Removing ADMR on osvaldo's server
+[05-Mar-2022]	[14:55:03] osvaldo#8952 Removing AGRS on osvaldo's server
+[05-Mar-2022]	[14:55:04] osvaldo#8952 Removing BGTG on osvaldo's server
+[05-Mar-2022]	[14:55:05] osvaldo#8952 Removing ANJT on osvaldo's server
+[05-Mar-2022]	[14:55:06] osvaldo#8952 Removing AKRA on osvaldo's server
+[05-Mar-2022]	[14:55:07] osvaldo#8952 Removing BDMN on osvaldo's server
+[05-Mar-2022]	[14:55:09] osvaldo#8952 Removing KINO on osvaldo's server
+[05-Mar-2022]	[14:55:10] osvaldo#8952 Removing APEX on osvaldo's server
+[05-Mar-2022]	[14:55:12] osvaldo#8952 Removing BANK on osvaldo's server
+[05-Mar-2022]	[14:55:13] osvaldo#8952 Removing BBSS on osvaldo's server
+[05-Mar-2022]	[14:55:13] osvaldo#8952 Removing BBTN on osvaldo's server
+[05-Mar-2022]	[14:55:15] osvaldo#8952 Removing BBYB on osvaldo's server
+[05-Mar-2022]	[14:55:18] osvaldo#8952 Displaying watchlist on osvaldo's server
+[05-Mar-2022]	[14:55:48] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:55:49] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:55:50] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:55:51] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:55:52] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:55:54] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:55:55] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:55:56] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:55:57] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:56:00] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:56:01] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:56:01] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:56:02] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:56:03] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:56:05] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:56:08] osvaldo#8952 Displaying watchlist on osvaldo's server
+[05-Mar-2022]	[14:56:41] osvaldo#8952 Set AGRO plan on Nekone
+[05-Mar-2022]	[14:56:42] osvaldo#8952 Set BBCA plan on Nekone
+[05-Mar-2022]	[14:56:43] osvaldo#8952 Set ARTO plan on Nekone
+[05-Mar-2022]	[14:56:45] osvaldo#8952 Set ADMR plan on Nekone
+[05-Mar-2022]	[14:56:48] osvaldo#8952 Set AGRS plan on Nekone
+[05-Mar-2022]	[14:56:48] osvaldo#8952 Set BGTG plan on Nekone
+[05-Mar-2022]	[14:56:49] osvaldo#8952 Set ANJT plan on Nekone
+[05-Mar-2022]	[14:56:50] osvaldo#8952 Set AKRA plan on Nekone
+[05-Mar-2022]	[14:56:51] osvaldo#8952 Set BDMN plan on Nekone
+[05-Mar-2022]	[14:56:52] osvaldo#8952 Set KINO plan on Nekone
+[05-Mar-2022]	[14:56:54] osvaldo#8952 Set APEX plan on Nekone
+[05-Mar-2022]	[14:56:55] osvaldo#8952 Set BANK plan on Nekone
+[05-Mar-2022]	[14:56:56] osvaldo#8952 Set BBSS plan on Nekone
+[05-Mar-2022]	[14:56:57] osvaldo#8952 Set BBTN plan on Nekone
+[05-Mar-2022]	[14:56:58] osvaldo#8952 Set BBYB plan on Nekone
+[05-Mar-2022]	[14:57:00] osvaldo#8952 Set BFIN plan on Nekone
+[05-Mar-2022]	[14:57:01] osvaldo#8952 Set BUKA plan on Nekone
+[05-Mar-2022]	[14:57:02] osvaldo#8952 Set SIMP plan on Nekone
+[05-Mar-2022]	[14:57:03] osvaldo#8952 Set MYOR plan on Nekone
+[05-Mar-2022]	[14:57:06] osvaldo#8952 Set PADI plan on Nekone
+[05-Mar-2022]	[14:57:07] osvaldo#8952 Displaying watchlist on Nekone
+[05-Mar-2022]	[14:58:12] osvaldo#8952 Reset watchlist on osvaldo's server
+[05-Mar-2022]	[14:58:13] osvaldo#8952 Reset watchlist on Nekone
+[05-Mar-2022]	[14:58:57] osvaldo#8952 Set AGRO plan on Nekone
+[05-Mar-2022]	[14:58:57] osvaldo#8952 Set BBCA plan on Nekone
+[05-Mar-2022]	[14:58:58] osvaldo#8952 Set ARTO plan on Nekone
+[05-Mar-2022]	[14:58:59] osvaldo#8952 Set ADMR plan on Nekone
+[05-Mar-2022]	[14:59:00] osvaldo#8952 Set AGRS plan on Nekone
+[05-Mar-2022]	[14:59:02] osvaldo#8952 Set BGTG plan on Nekone
+[05-Mar-2022]	[14:59:03] osvaldo#8952 Set ANJT plan on Nekone
+[05-Mar-2022]	[14:59:04] osvaldo#8952 Set AKRA plan on Nekone
+[05-Mar-2022]	[14:59:05] osvaldo#8952 Set BDMN plan on Nekone
+[05-Mar-2022]	[14:59:07] osvaldo#8952 Set KINO plan on Nekone
+[05-Mar-2022]	[14:59:09] osvaldo#8952 Set APEX plan on Nekone
+[05-Mar-2022]	[14:59:09] osvaldo#8952 Set BANK plan on Nekone
+[05-Mar-2022]	[14:59:10] osvaldo#8952 Set BBSS plan on Nekone
+[05-Mar-2022]	[14:59:11] osvaldo#8952 Set BBTN plan on Nekone
+[05-Mar-2022]	[14:59:13] osvaldo#8952 Set BBYB plan on Nekone
+[05-Mar-2022]	[14:59:14] osvaldo#8952 Set BFIN plan on Nekone
+[05-Mar-2022]	[14:59:16] osvaldo#8952 Set BUKA plan on Nekone
+[05-Mar-2022]	[14:59:16] osvaldo#8952 Set SIMP plan on Nekone
+[05-Mar-2022]	[14:59:18] osvaldo#8952 Set MYOR plan on Nekone
+[05-Mar-2022]	[14:59:19] osvaldo#8952 Set PADI plan on Nekone
+[05-Mar-2022]	[14:59:31] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[14:59:33] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[14:59:34] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[14:59:35] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[14:59:36] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[14:59:37] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[14:59:40] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[14:59:40] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[14:59:41] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[14:59:42] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[14:59:43] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[14:59:45] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[14:59:46] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[14:59:47] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[14:59:49] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[14:59:50] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[14:59:51] osvaldo#8952 Set BUKA plan on osvaldo's server
+[05-Mar-2022]	[14:59:52] osvaldo#8952 Set SIMP plan on osvaldo's server
+[05-Mar-2022]	[14:59:53] osvaldo#8952 Set MYOR plan on osvaldo's server
+[05-Mar-2022]	[14:59:54] osvaldo#8952 Set PADI plan on osvaldo's server
+[05-Mar-2022]	[15:00:46] osvaldo#8952 Reset watchlist on Nekone
+[05-Mar-2022]	[15:00:47] osvaldo#8952 Reset watchlist on osvaldo's server
+[05-Mar-2022]	[15:01:04] osvaldo#8952 Set AGRO plan on osvaldo's server
+[05-Mar-2022]	[15:01:05] osvaldo#8952 Set BBCA plan on osvaldo's server
+[05-Mar-2022]	[15:01:06] osvaldo#8952 Set ARTO plan on osvaldo's server
+[05-Mar-2022]	[15:01:08] osvaldo#8952 Set ADMR plan on osvaldo's server
+[05-Mar-2022]	[15:01:10] osvaldo#8952 Set AGRS plan on osvaldo's server
+[05-Mar-2022]	[15:01:11] osvaldo#8952 Set BGTG plan on osvaldo's server
+[05-Mar-2022]	[15:01:11] osvaldo#8952 Set ANJT plan on osvaldo's server
+[05-Mar-2022]	[15:01:13] osvaldo#8952 Set AKRA plan on osvaldo's server
+[05-Mar-2022]	[15:01:14] osvaldo#8952 Set BDMN plan on osvaldo's server
+[05-Mar-2022]	[15:01:16] osvaldo#8952 Set KINO plan on osvaldo's server
+[05-Mar-2022]	[15:01:16] osvaldo#8952 Set APEX plan on osvaldo's server
+[05-Mar-2022]	[15:01:17] osvaldo#8952 Set BANK plan on osvaldo's server
+[05-Mar-2022]	[15:01:19] osvaldo#8952 Set BBSS plan on osvaldo's server
+[05-Mar-2022]	[15:01:20] osvaldo#8952 Set BBTN plan on osvaldo's server
+[05-Mar-2022]	[15:01:22] osvaldo#8952 Set BBYB plan on osvaldo's server
+[05-Mar-2022]	[15:01:22] osvaldo#8952 Set BFIN plan on osvaldo's server
+[05-Mar-2022]	[15:01:24] osvaldo#8952 Set BUKA plan on osvaldo's server
+[05-Mar-2022]	[15:01:25] osvaldo#8952 Set SIMP plan on osvaldo's server
+[05-Mar-2022]	[15:01:26] osvaldo#8952 Set MYOR plan on osvaldo's server
+[05-Mar-2022]	[15:01:28] osvaldo#8952 Set PADI plan on osvaldo's server
+[05-Mar-2022]	[15:01:31] osvaldo#8952 Displaying watchlist on trade
+[05-Mar-2022]	[15:01:45] osvaldo#8952 Displaying watchlist on trade
+[05-Mar-2022]	[15:01:58] osvaldo#8952 Reset watchlist on osvaldo's server
+[05-Mar-2022]	[15:02:02] osvaldo#8952 Requesting info in trade
+[05-Mar-2022]	[15:02:14] osvaldo#8952 Delete 999 messages on osvaldo's server
+[05-Mar-2022]	[15:02:32] osvaldo#8952 Set coin to ETHUSDT
+[05-Mar-2022]	[15:03:30] osvaldo#8952 Set coin to MBOX
+[05-Mar-2022]	[15:03:43] osvaldo#8952 Set coin to MBOXUSDT
+[05-Mar-2022]	[15:08:16] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[15:09:19] osvaldo#8952 Set coin to ETHUSDT
+[05-Mar-2022]	[15:14:53] osvaldo#8952 Set coin to CAKEAUD
+[05-Mar-2022]	[15:15:10] osvaldo#8952 Set coin to UNIUSDT
+[05-Mar-2022]	[15:15:23] osvaldo#8952 Set coin to SUSHIUSDT
+[05-Mar-2022]	[15:58:56] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[16:55:10] osvaldo#8952 Set coin to ALGOUSDT
+[05-Mar-2022]	[16:55:50] osvaldo#8952 Set coin to ETHBUSD
+[05-Mar-2022]	[16:56:04] osvaldo#8952 Set coin to SOLUSDT
+[05-Mar-2022]	[18:49:08] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[19:31:03] osvaldo#8952 Delete 99 messages on Nekone
+[05-Mar-2022]	[21:49:27] osvaldo#8952 Set coin to ETHUSDT
+[05-Mar-2022]	[21:58:19] osvaldo#8952 Set coin to BTCUSDT
+[05-Mar-2022]	[24:29:39] osvaldo#8952 Set coin to ETCUSDT
+[05-Mar-2022]	[24:29:55] osvaldo#8952 Set coin to BTCUSDT
+[06-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[06-Mar-2022]	[10:49:38] osvaldo#8952 Set coin to ETCUSDT
+[06-Mar-2022]	[10:49:53] osvaldo#8952 Set coin to SXPUSDT
+[06-Mar-2022]	[10:50:08] osvaldo#8952 Set coin to BTCUSDT
+[06-Mar-2022]	[11:53:20] osvaldo#8952 Set coin to ETCUSDT
+[06-Mar-2022]	[12:49:50] osvaldo#8952 Downloading Binance Coin List
+[06-Mar-2022]	[18:53:35] osvaldo#8952 Set coin to BTCUSDT
+[06-Mar-2022]	[21:55:18] osvaldo#8952 Set coin to ETCUSDT
+[06-Mar-2022]	[21:55:31] osvaldo#8952 Set coin to BTCUSDT
+[06-Mar-2022]	[23:19:59] osvaldo#8952 Set BOLA plan on trade
+[06-Mar-2022]	[23:26:16] osvaldo#8952 Set BSDE plan on trade
+[06-Mar-2022]	[23:29:02] osvaldo#8952 Displaying watchlist on trade
+[06-Mar-2022]	[23:29:52] osvaldo#8952 Removing BULL on trade
+[06-Mar-2022]	[23:30:23] osvaldo#8952 Displaying watchlist on trade
+[06-Mar-2022]	[23:30:47] osvaldo#8952 Removing JPFA on trade
+[06-Mar-2022]	[23:30:57] osvaldo#8952 Displaying watchlist on trade
+[06-Mar-2022]	[23:31:06] osvaldo#8952 Removing MPMX on trade
+[06-Mar-2022]	[23:31:16] osvaldo#8952 Displaying watchlist on trade
+[06-Mar-2022]	[23:31:19] osvaldo#8952 Delete 99 messages on trade
+[06-Mar-2022]	[23:31:22] osvaldo#8952 Displaying watchlist on trade
+[06-Mar-2022]	[24:09:26] ---SYSTEM--- StonksBot#2363 is ready
+[06-Mar-2022]	[24:09:44] ---SYSTEM--- StonksBot#2363 is ready
+[06-Mar-2022]	[0:18:53] ---SYSTEM--- StonksBot#2363 is ready
+[06-Mar-2022]	[0:19:20] osvaldo#8952 Downloading Binance Coin List
+[06-Mar-2022]	[0:19:31] osvaldo#8952 Downloading BTC price
+[06-Mar-2022]	[0:30:13] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[1:38:58] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[8:35:03] ---SYSTEM--- StonksBot#2363 is ready
+[07-Mar-2022]	[10:41:46] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:08:47] ---SYSTEM--- StonksBot#2363 is ready
+[07-Mar-2022]	[11:09:08] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:15:03] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:15:09] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:15:13] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:15:28] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[11:24:39] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[16:36:16] osvaldo#8952 Showing bot crypto status
+[07-Mar-2022]	[16:36:29] osvaldo#8952 Set coin to BTCUSDT
+[07-Mar-2022]	[16:36:33] osvaldo#8952 Showing bot crypto status
+[07-Mar-2022]	[17:16:21] osvaldo#8952 Requesting info in trade
+[07-Mar-2022]	[18:47:23] ---SYSTEM--- StonksBot#2363 is ready
+[07-Mar-2022]	[18:47:35] osvaldo#8952 Showing bot crypto status
+[07-Mar-2022]	[18:49:42] ---SYSTEM--- StonksBot#2363 is ready
+[07-Mar-2022]	[18:49:50] osvaldo#8952 Showing bot crypto status
+[07-Mar-2022]	[18:50:09] osvaldo#8952 Set coin to SXPUSDT
+[07-Mar-2022]	[18:50:21] osvaldo#8952 Set coin to ETCUSDT
+[07-Mar-2022]	[19:04:22] osvaldo#8952 Set coin to BTCUSDT
+[07-Mar-2022]	[20:16:23] osvaldo#8952 Displaying watchlist on trade
+[07-Mar-2022]	[20:16:35] osvaldo#8952 Removing ERAA on trade
+[07-Mar-2022]	[20:16:38] osvaldo#8952 Removing BSDE on trade
+[07-Mar-2022]	[20:16:41] osvaldo#8952 Displaying watchlist on trade
+[07-Mar-2022]	[20:17:03] osvaldo#8952 Removing ABBA on trade
+[07-Mar-2022]	[20:18:04] osvaldo#8952 Downloading BTC price
+[07-Mar-2022]	[20:18:28] osvaldo#8952 Downloading Binance Coin List
+[07-Mar-2022]	[20:26:22] osvaldo#8952 Downloading Binance Coin List
+[07-Mar-2022]	[20:26:23] ---SYSTEM--- StonksBot#2363 is ready
+[07-Mar-2022]	[20:26:25] osvaldo#8952 Showing bot crypto status
+[07-Mar-2022]	[20:26:31] osvaldo#8952 Downloading Bot Log
+[07-Mar-2022]	[20:41:17] osvaldo#8952 Set coin to ETCUSDT
+[07-Mar-2022]	[20:41:27] osvaldo#8952 Set coin to SOLUSDT
+[07-Mar-2022]	[20:41:39] osvaldo#8952 Set coin to ETHUSDT
+[07-Mar-2022]	[20:41:47] osvaldo#8952 Set coin to BTCUSDT
+[07-Mar-2022]	[20:52:07] osvaldo#8952 Downloading Bot Log
+[07-Mar-2022]	[23:59:29] osvaldo#8952 Downloading BTC price
+[08-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[9:10:56] osvaldo#8952 Ask HRTA on trade
+[08-Mar-2022]	[18:44:56] osvaldo#8952 Downloading BTC price
+[08-Mar-2022]	[19:43:07] osvaldo#8952 Downloading BTC price
+[08-Mar-2022]	[19:46:25] osvaldo#8952 Set coin to ETHUSDT
+[08-Mar-2022]	[19:51:35] osvaldo#8952 Set coin to BTCUSDT
+[08-Mar-2022]	[20:43:06] osvaldo#8952 Set coin to ETHUSDT
+[08-Mar-2022]	[20:52:52] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[20:53:43] osvaldo#8952 Downloading BTC price
+[08-Mar-2022]	[20:56:14] osvaldo#8952 Downloading ETH price
+[08-Mar-2022]	[20:56:50] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[20:56:54] osvaldo#8952 Downloading Bot Log
+[08-Mar-2022]	[21:00:06] osvaldo#8952 Downloading ETH price
+[08-Mar-2022]	[21:00:15] osvaldo#8952 Downloading ETH price
+[08-Mar-2022]	[21:00:26] osvaldo#8952 Downloading BTC price
+[08-Mar-2022]	[21:03:21] osvaldo#8952 Showing bot crypto status
+[08-Mar-2022]	[21:48:42] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[21:49:23] osvaldo#8952 Showing bot crypto status
+[08-Mar-2022]	[21:49:44] osvaldo#8952 Showing bot crypto status
+[08-Mar-2022]	[21:50:35] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[21:50:46] osvaldo#8952 Showing bot crypto status
+[08-Mar-2022]	[21:50:52] osvaldo#8952 Set coin to BTCUSDT
+[08-Mar-2022]	[21:52:11] osvaldo#8952 Downloading Binance Coin List
+[08-Mar-2022]	[22:14:15] osvaldo#8952 Set coin to BNBUSDT
+[08-Mar-2022]	[22:29:29] osvaldo#8952 Set coin to SOLUSDT
+[08-Mar-2022]	[22:32:40] ---SYSTEM--- StonksBot#2363 is ready
+[08-Mar-2022]	[22:33:47] osvaldo#8952 Set coin to ETHUSDT
+[08-Mar-2022]	[22:33:53] osvaldo#8952 Downloading SOL price
+[08-Mar-2022]	[22:45:12] osvaldo#8952 Downloading SOL price
+[08-Mar-2022]	[22:46:44] osvaldo#8952 Showing bot crypto status
+[08-Mar-2022]	[22:46:51] osvaldo#8952 Set coin to BTCUSDT
+[08-Mar-2022]	[22:47:10] osvaldo#8952 Downloading BNB price
+[08-Mar-2022]	[22:47:17] osvaldo#8952 Downloading ETH price
+[08-Mar-2022]	[22:47:22] osvaldo#8952 Downloading BTC price
+[09-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[09-Mar-2022]	[9:12:47] osvaldo#8952 Downloading SOL price
+[09-Mar-2022]	[9:13:32] osvaldo#8952 Downloading ETH price
+[09-Mar-2022]	[9:14:11] osvaldo#8952 Downloading BTC price
+[09-Mar-2022]	[9:14:14] osvaldo#8952 Downloading BNB price
+[09-Mar-2022]	[12:58:11] osvaldo#8952 Downloading BTC price
+[09-Mar-2022]	[19:27:21] osvaldo#8952 Downloading BNB price
+[09-Mar-2022]	[19:47:52] osvaldo#8952 Ask broker CC trade
+[09-Mar-2022]	[19:48:00] osvaldo#8952 Ask broker KI trade
+[09-Mar-2022]	[19:48:11] osvaldo#8952 Ask broker SQ trade
+[09-Mar-2022]	[19:56:00] osvaldo#8952 Set coin to ETCUSDT
+[09-Mar-2022]	[19:56:22] osvaldo#8952 Reset watchlist on trade
+[09-Mar-2022]	[20:10:58] osvaldo#8952 Set EXCL plan on trade
+[09-Mar-2022]	[20:12:12] osvaldo#8952 Set BBTN plan on trade
+[09-Mar-2022]	[20:43:26] ---SYSTEM--- StonksBot#2363 is ready
+[09-Mar-2022]	[21:02:56] osvaldo#8952 Showing bot crypto status
+[09-Mar-2022]	[21:02:57] osvaldo#8952 Set coin to BTCUSDT
+[09-Mar-2022]	[21:09:16] ---SYSTEM--- StonksBot#2363 is ready
+[09-Mar-2022]	[21:15:15] ---SYSTEM--- StonksBot#2363 is ready
+[09-Mar-2022]	[21:15:39] osvaldo#8952 Set coin to ETHUSDT
+[09-Mar-2022]	[21:15:41] osvaldo#8952 Showing bot crypto status
+[10-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[10-Mar-2022]	[12:22:02] osvaldo#8952 Downloading BTC price
+[10-Mar-2022]	[15:10:40] osvaldo#8952 Set coin to ETCUSDT
+[10-Mar-2022]	[19:44:56] osvaldo#8952 Downloading BNB price
+[10-Mar-2022]	[22:37:39] osvaldo#8952 Set coin to BTCUSDT
+[11-Mar-2022]	[1:24:35] osvaldo#8952 Downloading BTC price
+[11-Mar-2022]	[8:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[11-Mar-2022]	[16:02:00] osvaldo#8952 Set PGAS plan on trade
+[12-Mar-2022]	[2:45:19] ---SYSTEM--- StonksBot#2363 is ready
+[12-Mar-2022]	[8:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[13-Mar-2022]	[8:35:03] ---SYSTEM--- StonksBot#2363 is ready
+[14-Mar-2022]	[8:35:03] ---SYSTEM--- StonksBot#2363 is ready
+[14-Mar-2022]	[14:03:03] osvaldo#8952 Downloading BTC price
+[15-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[15-Mar-2022]	[12:08:45] osvaldo#8952 Downloading BTC price
+[15-Mar-2022]	[23:33:57] ---SYSTEM--- StonksBot#2363 is ready
+[16-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[16-Mar-2022]	[23:23:37] osvaldo#8952 Reset watchlist on trade
+[16-Mar-2022]	[23:24:47] osvaldo#8952 Set LSIP plan on trade
+[16-Mar-2022]	[23:25:30] osvaldo#8952 Set ANTM plan on trade
+[16-Mar-2022]	[23:27:01] osvaldo#8952 Set SRTG plan on trade
+[16-Mar-2022]	[23:29:14] osvaldo#8952 Set SMDR plan on trade
+[16-Mar-2022]	[23:30:56] osvaldo#8952 Set BULL plan on trade
+[16-Mar-2022]	[23:33:11] osvaldo#8952 Set AGRO plan on trade
+[16-Mar-2022]	[23:33:13] osvaldo#8952 Displaying watchlist on trade
+[17-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[17-Mar-2022]	[12:51:49] osvaldo#8952 Delete 90 messages on osvaldo's server
+[17-Mar-2022]	[17:24:39] osvaldo#8952 Set coin to OCEAN
+[17-Mar-2022]	[17:24:50] osvaldo#8952 Set coin to OCEANUSDT
+[17-Mar-2022]	[17:25:00] osvaldo#8952 Downloading Bot Log
+[17-Mar-2022]	[17:46:33] osvaldo#8952 Set coin to BTCUSDT
+[17-Mar-2022]	[19:08:51] osvaldo#8952 Set DMMX plan on trade
+[17-Mar-2022]	[22:57:53] ---SYSTEM--- StonksBot#2363 is ready
+[17-Mar-2022]	[23:45:53] osvaldo#8952 Showing bot crypto status
+[18-Mar-2022]	[8:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[18-Mar-2022]	[21:01:44] osvaldo#8952 Downloading Binance Coin List
+[18-Mar-2022]	[21:01:49] osvaldo#8952 Set coin to APE
+[18-Mar-2022]	[21:02:18] osvaldo#8952 Set coin to BTCUSDT
+[18-Mar-2022]	[21:29:34] ---SYSTEM--- StonksBot#2363 is ready
+[18-Mar-2022]	[21:29:41] osvaldo#8952 Showing bot crypto status
+[18-Mar-2022]	[21:29:50] osvaldo#8952 Set coin to APEUSDT
+[18-Mar-2022]	[21:30:11] osvaldo#8952 Set coin to BTCUSDT
+[19-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[19-Mar-2022]	[21:12:22] osvaldo#8952 Set coin to ETHUSDT
+[19-Mar-2022]	[21:18:29] osvaldo#8952 Set ADRO plan on trade
+[19-Mar-2022]	[21:23:25] osvaldo#8952 Set INCO plan on trade
+[19-Mar-2022]	[21:24:57] osvaldo#8952 Displaying watchlist on trade
+[19-Mar-2022]	[21:25:40] osvaldo#8952 Removing AGRO on trade
+[19-Mar-2022]	[21:25:42] osvaldo#8952 Displaying watchlist on trade
+[19-Mar-2022]	[21:27:36] osvaldo#8952 Set BTPS plan on trade
+[19-Mar-2022]	[21:34:37] osvaldo#8952 Displaying watchlist on trade
+[20-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[20-Mar-2022]	[21:59:06] osvaldo#8952 Displaying watchlist on trade
+[20-Mar-2022]	[21:59:17] osvaldo#8952 Delete 9999 messages on trade
+[20-Mar-2022]	[22:43:10] osvaldo#8952 Set SAME plan on trade
+[20-Mar-2022]	[22:43:13] osvaldo#8952 Displaying watchlist on trade
+[21-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[21-Mar-2022]	[11:08:24] osvaldo#8952 Downloading BTC price
+[21-Mar-2022]	[15:03:22] osvaldo#8952 Set WOOD plan on trade
+[21-Mar-2022]	[15:06:16] osvaldo#8952 Displaying watchlist on trade
+[21-Mar-2022]	[15:06:26] osvaldo#8952 Removing SMDR on trade
+[21-Mar-2022]	[15:06:48] osvaldo#8952 Removing SRTG on trade
+[21-Mar-2022]	[15:06:50] osvaldo#8952 Displaying watchlist on trade
+[21-Mar-2022]	[15:28:57] osvaldo#8952 Set coin to BTCUSDT
+[21-Mar-2022]	[23:27:51] osvaldo#8952 Request bot invitation link on trade
+[21-Mar-2022]	[23:29:25] ADMIN Stonksbot invited to GYP
+[21-Mar-2022]	[23:36:52] Gun#4565 Requesting info in GYP
+[21-Mar-2022]	[23:41:10] osvaldo#8952 Delete 5 messages on GYP
+[21-Mar-2022]	[23:41:42] osvaldo#8952 Assign 955503469089914921 on 951842185035264010 server
+[21-Mar-2022]	[23:42:39] osvaldo#8952 Set WOOD plan on GYP
+[21-Mar-2022]	[23:45:00] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[8:35:03] ---SYSTEM--- StonksBot#2363 is ready
+[22-Mar-2022]	[15:16:56] ---SYSTEM--- StonksBot#2363 is ready
+[22-Mar-2022]	[15:17:06] osvaldo#8952 Ask BIKE on osvaldo's server
+[22-Mar-2022]	[15:17:09] osvaldo#8952 Ask IHSG on osvaldo's server
+[22-Mar-2022]	[21:50:22] osvaldo#8952 Set INDY plan on GYP
+[22-Mar-2022]	[21:50:41] osvaldo#8952 Set FREN plan on GYP
+[22-Mar-2022]	[21:51:06] osvaldo#8952 Set MMLP plan on GYP
+[22-Mar-2022]	[21:51:23] osvaldo#8952 Set AKRA plan on GYP
+[22-Mar-2022]	[21:51:45] osvaldo#8952 Set CTRA plan on GYP
+[22-Mar-2022]	[21:57:20] osvaldo#8952 Set BVIC plan on GYP
+[22-Mar-2022]	[22:01:17] osvaldo#8952 Set BSDE plan on GYP
+[22-Mar-2022]	[22:04:00] osvaldo#8952 Set SRTG plan on GYP
+[22-Mar-2022]	[22:04:03] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[22:04:21] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[22:10:46] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[22:10:49] osvaldo#8952 Removing BSDE on GYP
+[22-Mar-2022]	[22:10:51] osvaldo#8952 Delete 5 messages on GYP
+[22-Mar-2022]	[22:11:18] osvaldo#8952 Set BSDE plan on GYP
+[22-Mar-2022]	[22:11:28] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[22:14:49] osvaldo#8952 Set BGTG plan on GYP
+[22-Mar-2022]	[22:22:40] osvaldo#8952 Set BGTG plan on trade
+[22-Mar-2022]	[22:22:44] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:23:01] osvaldo#8952 Removing SAME on trade
+[22-Mar-2022]	[22:23:02] osvaldo#8952 Removing ADRO on trade
+[22-Mar-2022]	[22:23:04] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:23:10] osvaldo#8952 Removing ANTM on trade
+[22-Mar-2022]	[22:23:11] osvaldo#8952 Removing LSIP on trade
+[22-Mar-2022]	[22:23:12] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:23:26] osvaldo#8952 Removing BULL on trade
+[22-Mar-2022]	[22:23:27] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:23:48] osvaldo#8952 Removing BTPS on trade
+[22-Mar-2022]	[22:23:49] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:24:09] osvaldo#8952 Removing INCO on trade
+[22-Mar-2022]	[22:24:27] osvaldo#8952 Removing DMMX on trade
+[22-Mar-2022]	[22:24:29] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:24:37] osvaldo#8952 Delete 90 messages on trade
+[22-Mar-2022]	[22:25:28] osvaldo#8952 Set MMLP plan on trade
+[22-Mar-2022]	[22:26:00] osvaldo#8952 Set INDY plan on trade
+[22-Mar-2022]	[22:27:15] osvaldo#8952 Set BBYB plan on trade
+[22-Mar-2022]	[22:27:17] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:35:01] osvaldo#8952 Displaying watchlist on trade
+[22-Mar-2022]	[22:35:12] osvaldo#8952 Set SRTG plan on trade
+[22-Mar-2022]	[22:36:19] osvaldo#8952 Set AGRS plan on trade
+[22-Mar-2022]	[22:36:35] osvaldo#8952 Set AGRS plan on GYP
+[22-Mar-2022]	[22:36:54] osvaldo#8952 Ask AGRS on GYP
+[22-Mar-2022]	[22:37:40] osvaldo#8952 Displaying watchlist on GYP
+[22-Mar-2022]	[22:43:23] osvaldo#8952 Displaying watchlist on trade
+[23-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[18:46:13] osvaldo#8952 Set PGAS plan on GYP
+[23-Mar-2022]	[18:46:14] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:50:59] osvaldo#8952 Removing WOOD on GYP
+[23-Mar-2022]	[18:51:21] osvaldo#8952 Removing AKRA on GYP
+[23-Mar-2022]	[18:51:35] osvaldo#8952 Removing MMLP on GYP
+[23-Mar-2022]	[18:51:40] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:51:54] osvaldo#8952 Removing BVIC on GYP
+[23-Mar-2022]	[18:51:55] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:54:29] osvaldo#8952 Set TAPG plan on GYP
+[23-Mar-2022]	[18:54:30] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:54:33] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:57:05] osvaldo#8952 Set ASSA plan on GYP
+[23-Mar-2022]	[18:58:42] osvaldo#8952 Set BOLA plan on GYP
+[23-Mar-2022]	[18:58:43] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[18:58:59] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[19:28:22] osvaldo#8952 Set BOLA plan on trade
+[23-Mar-2022]	[19:28:49] osvaldo#8952 Removing MMLP on trade
+[23-Mar-2022]	[19:28:51] osvaldo#8952 Removing SRTG on trade
+[23-Mar-2022]	[21:28:10] osvaldo#8952 Ask broker AK trade
+[23-Mar-2022]	[22:31:15] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:31:31] osvaldo#8952 Set BOLA plan on osvaldo's server
+[23-Mar-2022]	[22:36:49] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:36:56] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:40:26] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:41:24] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:42:35] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:42:53] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:43:05] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:44:15] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:44:29] osvaldo#8952 Removing BOLA on osvaldo's server
+[23-Mar-2022]	[22:45:04] osvaldo#8952 Set BBCA plan on osvaldo's server
+[23-Mar-2022]	[22:45:16] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:45:23] osvaldo#8952 Removing BBCA on osvaldo's server
+[23-Mar-2022]	[22:45:28] osvaldo#8952 Requesting info in osvaldo's server
+[23-Mar-2022]	[22:48:51] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:49:04] osvaldo#8952 Delete 99 messages on osvaldo's server
+[23-Mar-2022]	[22:49:18] osvaldo#8952 Set BBKP plan on osvaldo's server
+[23-Mar-2022]	[22:49:18] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:51:02] osvaldo#8952 Set BBKP plan on GYP
+[23-Mar-2022]	[22:51:03] osvaldo#8952 Displaying watchlist on GYP
+[23-Mar-2022]	[22:51:50] osvaldo#8952 Removing BBKP on osvaldo's server
+[23-Mar-2022]	[22:53:42] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:53:53] osvaldo#8952 Set BBKP plan on osvaldo's server
+[23-Mar-2022]	[22:56:11] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:56:21] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[22:56:25] osvaldo#8952 Removing BBKP on osvaldo's server
+[23-Mar-2022]	[22:57:26] osvaldo#8952 Delete 99 messages on osvaldo's server
+[23-Mar-2022]	[22:57:41] osvaldo#8952 Set BGTG plan on osvaldo's server
+[23-Mar-2022]	[22:57:53] osvaldo#8952 Set BUKA plan on osvaldo's server
+[23-Mar-2022]	[22:58:56] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[22:59:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:05:03] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:05:07] osvaldo#8952 Removing BUKA on osvaldo's server
+[23-Mar-2022]	[23:05:13] osvaldo#8952 Removing BGTG on osvaldo's server
+[23-Mar-2022]	[23:07:22] osvaldo#8952 Delete 99 messages on osvaldo's server
+[23-Mar-2022]	[23:17:24] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:17:47] osvaldo#8952 Set BBKP plan on osvaldo's server
+[23-Mar-2022]	[23:19:13] osvaldo#8952 Removing BBKP on osvaldo's server
+[23-Mar-2022]	[23:19:23] osvaldo#8952 Set BBCA plan on osvaldo's server
+[23-Mar-2022]	[23:27:02] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:27:23] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:27:32] osvaldo#8952 Set BGTG plan on osvaldo's server
+[23-Mar-2022]	[23:27:42] osvaldo#8952 Removing BBCA on osvaldo's server
+[23-Mar-2022]	[23:27:43] osvaldo#8952 Removing BGTG on osvaldo's server
+[23-Mar-2022]	[23:28:10] osvaldo#8952 Set BBHI plan on osvaldo's server
+[23-Mar-2022]	[23:28:17] osvaldo#8952 Set BVIC plan on osvaldo's server
+[23-Mar-2022]	[23:28:25] osvaldo#8952 Set KINO plan on osvaldo's server
+[23-Mar-2022]	[23:28:43] osvaldo#8952 Removing KINO on osvaldo's server
+[23-Mar-2022]	[23:29:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:33:09] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:33:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:35:55] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:36:58] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:38:46] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:41:43] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:41:48] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:41:53] osvaldo#8952 Set KINO plan on osvaldo's server
+[23-Mar-2022]	[23:42:02] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:42:09] osvaldo#8952 Set INKP plan on osvaldo's server
+[23-Mar-2022]	[23:42:16] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:46:26] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:46:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:46:58] osvaldo#8952 Removing BVIC on osvaldo's server
+[23-Mar-2022]	[23:46:59] osvaldo#8952 Removing KINO on osvaldo's server
+[23-Mar-2022]	[23:46:59] osvaldo#8952 Removing INKP on osvaldo's server
+[23-Mar-2022]	[23:47:17] osvaldo#8952 Set JSMR plan on osvaldo's server
+[23-Mar-2022]	[23:48:22] osvaldo#8952 Set BBHI plan on osvaldo's server
+[23-Mar-2022]	[23:49:15] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:49:30] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:51:02] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:51:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:52:14] ---SYSTEM--- StonksBot#2363 is ready
+[23-Mar-2022]	[23:52:29] osvaldo#8952 Removing BBHI on osvaldo's server
+[23-Mar-2022]	[23:52:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:54:03] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Mar-2022]	[23:54:52] osvaldo#8952 Removing JSMR on osvaldo's server
+[23-Mar-2022]	[23:55:47] osvaldo#8952 Delete 999 messages on osvaldo's server
+[23-Mar-2022]	[23:56:01] osvaldo#8952 Showing bot crypto status
+[23-Mar-2022]	[23:56:50] osvaldo#8952 Displaying watchlist on trade
+[23-Mar-2022]	[23:57:26] osvaldo#8952 Set BBKP plan on trade
+[23-Mar-2022]	[23:57:26] osvaldo#8952 Displaying watchlist on trade
+[23-Mar-2022]	[23:57:55] osvaldo#8952 Removing AGRS on trade
+[23-Mar-2022]	[23:57:55] osvaldo#8952 Removing WOOD on trade
+[23-Mar-2022]	[23:58:22] osvaldo#8952 Displaying watchlist on trade
+[24-Mar-2022]	[8:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[24-Mar-2022]	[15:17:22] osvaldo#8952 Set BRPT plan on GYP
+[24-Mar-2022]	[15:18:56] osvaldo#8952 Removing AGRS on GYP
+[24-Mar-2022]	[15:18:57] osvaldo#8952 Removing ASSA on GYP
+[24-Mar-2022]	[15:19:12] osvaldo#8952 Displaying watchlist on GYP
+[24-Mar-2022]	[19:40:32] osvaldo#8952 Removing INDY on GYP
+[24-Mar-2022]	[19:40:33] osvaldo#8952 Removing FREN on GYP
+[24-Mar-2022]	[19:40:33] osvaldo#8952 Removing CTRA on GYP
+[24-Mar-2022]	[19:40:34] osvaldo#8952 Removing BOLA on GYP
+[24-Mar-2022]	[19:40:35] osvaldo#8952 Removing TAPG on GYP
+[24-Mar-2022]	[19:40:41] osvaldo#8952 Displaying watchlist on GYP
+[24-Mar-2022]	[19:43:56] osvaldo#8952 Set PALM plan on GYP
+[24-Mar-2022]	[19:44:14] osvaldo#8952 Set PALM plan on trade
+[24-Mar-2022]	[19:44:23] osvaldo#8952 Removing INDY on trade
+[24-Mar-2022]	[19:44:25] osvaldo#8952 Removing BOLA on trade
+[24-Mar-2022]	[19:48:49] osvaldo#8952 Set NELY plan on trade
+[24-Mar-2022]	[19:50:43] osvaldo#8952 Set RMKE plan on trade
+[24-Mar-2022]	[19:52:38] osvaldo#8952 Set RALS plan on trade
+[24-Mar-2022]	[19:54:11] osvaldo#8952 Set JPFA plan on GYP
+[24-Mar-2022]	[19:58:13] osvaldo#8952 Set MLPL plan on GYP
+[24-Mar-2022]	[19:58:29] osvaldo#8952 Set MLPL plan on trade
+[24-Mar-2022]	[19:58:30] osvaldo#8952 Displaying watchlist on trade
+[24-Mar-2022]	[19:58:38] osvaldo#8952 Displaying watchlist on GYP
+[24-Mar-2022]	[20:08:22] osvaldo#8952 Set CMPP plan on GYP
+[24-Mar-2022]	[20:08:24] osvaldo#8952 Displaying watchlist on GYP
+[24-Mar-2022]	[20:08:39] osvaldo#8952 Set CMPP plan on trade
+[24-Mar-2022]	[20:08:55] osvaldo#8952 Downloading Bot Log
+[24-Mar-2022]	[20:45:48] osvaldo#8952 Downloading BTC price
+[24-Mar-2022]	[21:07:50] osvaldo#8952 Set WSKT plan on trade
+[24-Mar-2022]	[21:08:09] osvaldo#8952 Set WSKT plan on GYP
+[24-Mar-2022]	[21:09:28] osvaldo#8952 Set WIKA plan on GYP
+[24-Mar-2022]	[21:09:43] osvaldo#8952 Set WIKA plan on trade
+[24-Mar-2022]	[21:09:56] osvaldo#8952 Displaying watchlist on trade
+[24-Mar-2022]	[21:10:04] osvaldo#8952 Displaying watchlist on GYP
+[24-Mar-2022]	[21:11:13] osvaldo#8952 Delete 5 messages on osvaldo's server
+[24-Mar-2022]	[22:12:52] osvaldo#8952 Set KPIG plan on trade
+[24-Mar-2022]	[22:12:56] osvaldo#8952 Displaying watchlist on trade
+[25-Mar-2022]	[8:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[10:00:23] osvaldo#8952 Removing BBYB on trade
+[25-Mar-2022]	[10:00:23] osvaldo#8952 Removing NELY on trade
+[25-Mar-2022]	[10:00:23] osvaldo#8952 Removing MLPL on trade
+[25-Mar-2022]	[10:28:30] osvaldo#8952 Set ISSP plan on trade
+[25-Mar-2022]	[10:28:32] osvaldo#8952 Displaying watchlist on trade
+[25-Mar-2022]	[10:28:49] osvaldo#8952 Set ISSP plan on GYP
+[25-Mar-2022]	[10:29:17] osvaldo#8952 Removing PALM on GYP
+[25-Mar-2022]	[10:29:18] osvaldo#8952 Removing BRPT on GYP
+[25-Mar-2022]	[10:34:52] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[10:34:57] osvaldo#8952 Requesting info in osvaldo's server
+[25-Mar-2022]	[10:35:33] osvaldo#8952 Set ICON plan on osvaldo's server
+[25-Mar-2022]	[10:35:43] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[10:36:00] osvaldo#8952 Removing ICON on osvaldo's server
+[25-Mar-2022]	[10:37:31] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[10:37:31] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[10:37:41] osvaldo#8952 Removing BGTG on osvaldo's server
+[25-Mar-2022]	[10:38:02] osvaldo#8952 Set JSMR plan on osvaldo's server
+[25-Mar-2022]	[10:38:10] osvaldo#8952 Set OASA plan on osvaldo's server
+[25-Mar-2022]	[10:38:14] osvaldo#8952 Set CPRO plan on osvaldo's server
+[25-Mar-2022]	[10:38:20] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[10:39:02] osvaldo#8952 Removing OASA on osvaldo's server
+[25-Mar-2022]	[10:39:03] osvaldo#8952 Removing CPRO on osvaldo's server
+[25-Mar-2022]	[10:39:04] osvaldo#8952 Removing JSMR on osvaldo's server
+[25-Mar-2022]	[10:39:19] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[10:39:39] osvaldo#8952 Removing BGTG on osvaldo's server
+[25-Mar-2022]	[10:42:37] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[10:49:54] osvaldo#8952 Delete 99 messages on osvaldo's server
+[25-Mar-2022]	[11:03:11] osvaldo#8952 Set CENT plan on trade
+[25-Mar-2022]	[12:43:19] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[12:43:36] osvaldo#8952 Set BBCA plan on osvaldo's server
+[25-Mar-2022]	[12:43:37] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:43:39] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:43:44] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:43:47] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:46:22] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:47:24] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:47:24] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[12:47:26] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[12:47:28] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:09:01] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:10:03] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:10:06] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:10:08] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:10:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:10:39] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:10:50] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:13:27] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:17:07] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:18:24] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:19:14] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:24:03] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:25:43] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:31:26] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:31:34] osvaldo#8952 Delete 999 messages on osvaldo's server
+[25-Mar-2022]	[13:32:12] osvaldo#8952 Downloading Bot Log
+[25-Mar-2022]	[13:34:54] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:36:44] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:36:55] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:37:04] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:37:09] osvaldo#8952 Delete 999 messages on osvaldo's server
+[25-Mar-2022]	[13:37:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:37:12] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:37:23] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:37:27] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:38:04] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:53:35] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:53:42] osvaldo#8952 Requesting info in osvaldo's server
+[25-Mar-2022]	[13:55:06] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:55:17] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[13:55:18] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:55:21] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:55:25] osvaldo#8952 Delete 999 messages on osvaldo's server
+[25-Mar-2022]	[13:55:26] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[13:55:31] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:00:10] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:00:11] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:00:17] osvaldo#8952 Removing BBCA on osvaldo's server
+[25-Mar-2022]	[14:05:25] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:05:31] osvaldo#8952 Set BBCA plan on osvaldo's server
+[25-Mar-2022]	[14:05:39] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:05:40] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:05:59] osvaldo#8952 Set OASA plan on osvaldo's server
+[25-Mar-2022]	[14:06:13] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:06:25] osvaldo#8952 Set JSKY plan on osvaldo's server
+[25-Mar-2022]	[14:08:53] osvaldo#8952 Set JSKY plan on Nekone
+[25-Mar-2022]	[14:08:54] osvaldo#8952 Displaying watchlist on Nekone
+[25-Mar-2022]	[14:08:59] osvaldo#8952 Displaying watchlist on Nekone
+[25-Mar-2022]	[14:12:10] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[14:12:17] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[14:12:57] osvaldo#8952 Removing JPFA on GYP
+[25-Mar-2022]	[14:13:10] osvaldo#8952 Removing BBKP on GYP
+[25-Mar-2022]	[14:13:23] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[14:29:33] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:29:53] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:29:59] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:30:57] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:31:24] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:32:57] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:32:58] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:33:15] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:17] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:20] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:20] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:21] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:33:23] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:26] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:26] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:26] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:27] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:31] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:31] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:32] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:33:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:35:23] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:35:40] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Mar-2022]	[14:35:49] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:35:50] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:35:54] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:35:55] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:35:56] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:35:58] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[14:36:03] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:04] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:05] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:06] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:08] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:08] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:09] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:10] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:13] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:14] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:15] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:36:18] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:20] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:25] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:36:27] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:38:29] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:38:56] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:39:24] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Mar-2022]	[14:41:01] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:41:06] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:07] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:08] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:10] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:11] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:12] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:13] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:14] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:16] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:17] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:41:18] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:22] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:22] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:22] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:23] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:27] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:27] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:41:27] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:41:34] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:42:10] osvaldo#8952 Removing BBHI on osvaldo's server
+[25-Mar-2022]	[14:42:16] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:42:22] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:43:17] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:43:25] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:43:29] osvaldo#8952 Removing BBHI on osvaldo's server
+[25-Mar-2022]	[14:43:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:43:34] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[14:43:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:45:29] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:45:45] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:49:17] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:49:17] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:49:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:50:33] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:50:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:50:44] osvaldo#8952 Displaying watchlist on Nekone
+[25-Mar-2022]	[14:50:53] osvaldo#8952 Set BBCA plan on Nekone
+[25-Mar-2022]	[14:50:55] osvaldo#8952 Displaying watchlist on Nekone
+[25-Mar-2022]	[14:51:36] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[14:51:37] osvaldo#8952 Displaying watchlist on Nekone
+[25-Mar-2022]	[14:52:49] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Mar-2022]	[14:52:56] osvaldo#8952 Delete 999 messages on osvaldo's server
+[25-Mar-2022]	[14:53:08] osvaldo#8952 Set UNIQ plan on osvaldo's server
+[25-Mar-2022]	[14:53:11] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:54:05] osvaldo#8952 Set TLKM plan on osvaldo's server
+[25-Mar-2022]	[14:54:08] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[14:56:24] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[16:50:31] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[16:52:53] osvaldo#8952 Showing bot crypto status
+[25-Mar-2022]	[16:53:23] osvaldo#8952 Displaying watchlist on trade
+[25-Mar-2022]	[16:53:31] osvaldo#8952 Delete 5 messages on GYP
+[25-Mar-2022]	[16:53:37] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[21:18:42] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[21:18:45] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[21:18:56] osvaldo#8952 Request bot invitation link on osvaldo's server
+[25-Mar-2022]	[22:44:07] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:09:02] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:14:48] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:14:57] ADMIN Stonksbot kicked from osvaldo's server
+[25-Mar-2022]	[23:22:34] ADMIN Stonksbot kicked from osvaldo's server
+[25-Mar-2022]	[23:22:53] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:23:23] ADMIN Stonksbot invited to osvaldo's server
+[25-Mar-2022]	[23:24:03] osvaldo#8952 Set BGTG plan on osvaldo's server
+[25-Mar-2022]	[23:24:05] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:24:25] osvaldo#8952 Set BBHI plan on osvaldo's server
+[25-Mar-2022]	[23:24:47] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:27:32] osvaldo#8952 Request bot invitation link on Nekone
+[25-Mar-2022]	[23:29:37] ADMIN Stonksbot invited to Nekone
+[25-Mar-2022]	[23:30:21] ADMIN Stonksbot invited to trade
+[25-Mar-2022]	[23:31:02] ADMIN Stonksbot invited to GYP
+[25-Mar-2022]	[23:31:18] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:31:47] osvaldo#8952 Displaying watchlist on trade
+[25-Mar-2022]	[23:32:09] osvaldo#8952 Displaying watchlist on GYP
+[25-Mar-2022]	[23:32:38] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:32:46] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Mar-2022]	[23:32:55] osvaldo#8952 Set KINO plan on osvaldo's server
+[25-Mar-2022]	[23:33:04] osvaldo#8952 Set INDY plan on osvaldo's server
+[25-Mar-2022]	[23:33:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:33:13] osvaldo#8952 Removing KINO on osvaldo's server
+[25-Mar-2022]	[23:33:21] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:33:27] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Mar-2022]	[23:45:51] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:48:14] ---SYSTEM--- StonksBot#2363 is ready
+[25-Mar-2022]	[23:50:06] osvaldo#8952 Set KINO plan on osvaldo's server
+[25-Mar-2022]	[23:50:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Mar-2022]	[23:52:16] osvaldo#8952 Showing bot crypto status
+[26-Mar-2022]	[7:08:00] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[7:08:08] osvaldo#8952 Displaying watchlist on trade
+[26-Mar-2022]	[7:08:55] osvaldo#8952 Displaying watchlist on trade
+[26-Mar-2022]	[7:10:51] osvaldo#8952 Displaying watchlist on trade
+[26-Mar-2022]	[7:22:25] osvaldo#8952 Displaying watchlist on trade
+[26-Mar-2022]	[8:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[8:41:51] osvaldo#8952 Displaying watchlist on trade
+[26-Mar-2022]	[8:42:38] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:42:44] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:42:56] osvaldo#8952 Set BBHI plan on osvaldo's server
+[26-Mar-2022]	[8:42:58] osvaldo#8952 Displaying watchlist on osvaldo's server
+[26-Mar-2022]	[8:43:15] osvaldo#8952 Set IHSG plan on osvaldo's server
+[26-Mar-2022]	[8:43:58] osvaldo#8952 Displaying watchlist on osvaldo's server
+[26-Mar-2022]	[8:45:51] osvaldo#8952 Set BGTG plan on Nekone
+[26-Mar-2022]	[8:45:59] osvaldo#8952 Set BBYB plan on Nekone
+[26-Mar-2022]	[8:46:05] osvaldo#8952 Set BMHS plan on Nekone
+[26-Mar-2022]	[8:46:10] osvaldo#8952 Set BMRI plan on Nekone
+[26-Mar-2022]	[8:46:14] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:46:24] osvaldo#8952 Set BRIS plan on Nekone
+[26-Mar-2022]	[8:46:29] osvaldo#8952 Set BUMI plan on Nekone
+[26-Mar-2022]	[8:46:36] osvaldo#8952 Set APLN plan on Nekone
+[26-Mar-2022]	[8:46:42] osvaldo#8952 Set BRMS plan on Nekone
+[26-Mar-2022]	[8:46:43] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:46:52] osvaldo#8952 Set INKP plan on Nekone
+[26-Mar-2022]	[8:46:52] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:46:59] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:50:25] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[8:50:25] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:51:16] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:54:49] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[8:57:49] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[8:58:03] osvaldo#8952 Reset watchlist on Nekone
+[26-Mar-2022]	[9:02:18] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[9:02:20] osvaldo#8952 Requesting info in Nekone
+[26-Mar-2022]	[9:03:30] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[9:03:38] osvaldo#8952 Requesting info in Nekone
+[26-Mar-2022]	[9:04:34] osvaldo#8952 Displaying watchlist on osvaldo's server
+[26-Mar-2022]	[9:04:58] osvaldo#8952 Set BGTG plan on Nekone
+[26-Mar-2022]	[9:05:01] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[9:05:10] osvaldo#8952 Reset watchlist on osvaldo's server
+[26-Mar-2022]	[9:05:46] ---SYSTEM--- StonksBot#2363 is ready
+[26-Mar-2022]	[9:05:53] osvaldo#8952 Displaying watchlist on Nekone
+[26-Mar-2022]	[9:05:59] osvaldo#8952 Removing BGTG on Nekone
+[26-Mar-2022]	[9:06:20] osvaldo#8952 Requesting info in Nekone
+[26-Mar-2022]	[9:06:59] osvaldo#8952 Delete 999 messages on osvaldo's server
+[26-Mar-2022]	[13:42:09] osvaldo#8952 Ask broker OD osvaldo's server
+[26-Mar-2022]	[13:42:21] osvaldo#8952 Ask broker YP osvaldo's server
+[27-Mar-2022]	[12:55:39] osvaldo#8952 Set BNGA plan on GYP
+[27-Mar-2022]	[12:55:45] osvaldo#8952 Displaying watchlist on GYP
+[27-Mar-2022]	[13:08:12] osvaldo#8952 Ask broker DH trade
+[27-Mar-2022]	[13:08:23] osvaldo#8952 Ask broker SQ trade
+[27-Mar-2022]	[13:08:29] osvaldo#8952 Ask broker KI trade
+[27-Mar-2022]	[13:08:42] osvaldo#8952 Ask broker CP trade
+[27-Mar-2022]	[15:20:59] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[15:41:54] osvaldo#8952 Removing PGAS on GYP
+[27-Mar-2022]	[15:41:55] osvaldo#8952 Removing CMPP on GYP
+[27-Mar-2022]	[15:41:55] osvaldo#8952 Removing MLPL on GYP
+[27-Mar-2022]	[15:41:56] osvaldo#8952 Removing SRTG on GYP
+[27-Mar-2022]	[15:41:56] osvaldo#8952 Removing BSDE on GYP
+[27-Mar-2022]	[15:43:11] osvaldo#8952 Set ACES plan on GYP
+[27-Mar-2022]	[15:43:43] osvaldo#8952 Set DNAR plan on GYP
+[27-Mar-2022]	[15:44:03] osvaldo#8952 Displaying watchlist on GYP
+[27-Mar-2022]	[15:44:26] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[15:46:35] osvaldo#8952 Removing BBKP on trade
+[27-Mar-2022]	[15:46:35] osvaldo#8952 Removing PALM on trade
+[27-Mar-2022]	[15:46:36] osvaldo#8952 Removing CMPP on trade
+[27-Mar-2022]	[15:46:36] osvaldo#8952 Removing KPIG on trade
+[27-Mar-2022]	[15:46:37] osvaldo#8952 Removing CENT on trade
+[27-Mar-2022]	[15:47:02] osvaldo#8952 Set ACES plan on trade
+[27-Mar-2022]	[15:47:19] osvaldo#8952 Set DNAR plan on trade
+[27-Mar-2022]	[15:48:36] osvaldo#8952 Set BNGA plan on trade
+[27-Mar-2022]	[15:48:48] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[15:48:58] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[18:59:28] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[18:59:37] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:00:37] osvaldo#8952 Ask BIKE on osvaldo's server
+[27-Mar-2022]	[19:05:09] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[19:05:55] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:06:36] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[19:06:38] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:06:43] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:07:22] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[19:07:25] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:08:23] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[19:08:28] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[19:08:31] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[20:09:15] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[20:09:16] ---SYSTEM--- StonksBot#2363 is ready
+[27-Mar-2022]	[20:09:31] osvaldo#8952 Displaying watchlist on trade
+[27-Mar-2022]	[22:26:16] osvaldo#8952 Downloading BTC price
+[28-Mar-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[28-Mar-2022]	[8:52:30] ---SYSTEM--- StonksBot#2363 is ready
+[28-Mar-2022]	[9:49:29] osvaldo#8952 Ask CNTB on Nekone
+[28-Mar-2022]	[19:18:28] ---SYSTEM--- StonksBot#2363 is ready
+[28-Mar-2022]	[20:14:39] osvaldo#8952 Set DNAR plan on Nekone
+[28-Mar-2022]	[20:14:42] osvaldo#8952 Displaying watchlist on Nekone
+[28-Mar-2022]	[20:14:55] osvaldo#8952 Set BGTG plan on Nekone
+[28-Mar-2022]	[20:14:56] osvaldo#8952 Displaying watchlist on Nekone
+[29-Mar-2022]	[7:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[29-Mar-2022]	[14:06:51] osvaldo#8952 Assign 860313506900869134 on 860313506440282112 server
+[29-Mar-2022]	[14:07:00] osvaldo#8952 Assign 955503469089914921 on 951842185035264010 server
+[29-Mar-2022]	[14:07:18] osvaldo#8952 Assign 916298075549626428 on 849626191118860299 server
+[29-Mar-2022]	[14:07:22] osvaldo#8952 Assign 956761859187437578 on 925367837256728626 server
+[29-Mar-2022]	[14:08:28] ---SYSTEM--- StonksBot#2363 is ready
+[29-Mar-2022]	[14:34:58] ---SYSTEM--- StonksBot#2363 is ready
+[29-Mar-2022]	[23:41:31] osvaldo#8952 Downloading BTC price
+[29-Mar-2022]	[23:43:57] osvaldo#8952 Downloading BTC price
+[29-Mar-2022]	[23:50:04] osvaldo#8952 Reset watchlist on trade
+[29-Mar-2022]	[23:52:44] osvaldo#8952 Set BBYB plan on trade
+[29-Mar-2022]	[23:53:09] osvaldo#8952 Reset watchlist on GYP
+[29-Mar-2022]	[23:53:26] osvaldo#8952 Set BBYB plan on GYP
+[29-Mar-2022]	[23:54:19] osvaldo#8952 Set SRTG plan on GYP
+[29-Mar-2022]	[23:54:33] osvaldo#8952 Set SRTG plan on trade
+[29-Mar-2022]	[23:55:17] osvaldo#8952 Set TAPG plan on trade
+[29-Mar-2022]	[23:55:37] osvaldo#8952 Set SRTG plan on GYP
+[29-Mar-2022]	[23:55:54] osvaldo#8952 Set MEDC plan on GYP
+[29-Mar-2022]	[23:56:04] osvaldo#8952 Set MEDC plan on trade
+[29-Mar-2022]	[23:56:35] osvaldo#8952 Set SCMA plan on trade
+[29-Mar-2022]	[23:56:48] osvaldo#8952 Set SCMA plan on GYP
+[29-Mar-2022]	[23:57:19] osvaldo#8952 Set DNAR plan on GYP
+[29-Mar-2022]	[23:57:20] osvaldo#8952 Displaying watchlist on GYP
+[29-Mar-2022]	[23:57:32] osvaldo#8952 Set DNAR plan on trade
+[29-Mar-2022]	[23:57:33] osvaldo#8952 Displaying watchlist on trade
+[29-Mar-2022]	[23:59:15] osvaldo#8952 Set BBKP plan on trade
+[29-Mar-2022]	[23:59:18] osvaldo#8952 Displaying watchlist on trade
+[29-Mar-2022]	[23:59:33] osvaldo#8952 Set BBKP plan on GYP
+[29-Mar-2022]	[23:59:36] osvaldo#8952 Displaying watchlist on GYP
+[30-Mar-2022]	[7:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[30-Mar-2022]	[8:52:06] ---SYSTEM--- StonksBot#2363 is ready
+[30-Mar-2022]	[10:27:53] ---SYSTEM--- StonksBot#2363 is ready
+[30-Mar-2022]	[18:44:50] osvaldo#8952 Delete 5 messages on osvaldo's server
+[30-Mar-2022]	[18:44:55] osvaldo#8952 Ask broker OD osvaldo's server
+[30-Mar-2022]	[18:44:58] osvaldo#8952 Ask broker AN osvaldo's server
+[30-Mar-2022]	[18:45:02] osvaldo#8952 Ask broker GA osvaldo's server
+[30-Mar-2022]	[18:45:12] osvaldo#8952 Ask broker FS osvaldo's server
+[30-Mar-2022]	[18:45:18] osvaldo#8952 Ask broker IF osvaldo's server
+[30-Mar-2022]	[18:45:25] osvaldo#8952 Ask broker ZP osvaldo's server
+[30-Mar-2022]	[18:45:32] osvaldo#8952 Ask broker IN osvaldo's server
+[30-Mar-2022]	[18:45:36] osvaldo#8952 Ask broker PC osvaldo's server
+[30-Mar-2022]	[18:45:42] osvaldo#8952 Ask broker YU osvaldo's server
+[30-Mar-2022]	[18:45:49] osvaldo#8952 Ask broker RX osvaldo's server
+[30-Mar-2022]	[22:44:05] osvaldo#8952 Set KIOS plan on GYP
+[30-Mar-2022]	[22:44:06] osvaldo#8952 Displaying watchlist on GYP
+[31-Mar-2022]	[7:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[21:54:47] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:11:55] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:14:41] osvaldo#8952 Ask KOBX on osvaldo's server
+[31-Mar-2022]	[22:17:27] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:17:49] osvaldo#8952 Set BGTG plan on osvaldo's server
+[31-Mar-2022]	[22:17:50] osvaldo#8952 Displaying watchlist on osvaldo's server
+[31-Mar-2022]	[22:22:23] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:22:26] osvaldo#8952 Request BGTG price
+[31-Mar-2022]	[22:24:45] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:24:50] osvaldo#8952 Request BGTG price
+[31-Mar-2022]	[22:26:22] osvaldo#8952 Request TAPG price
+[31-Mar-2022]	[22:27:53] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:27:58] osvaldo#8952 Request UNIQ price
+[31-Mar-2022]	[22:28:12] osvaldo#8952 Request RMKE price
+[31-Mar-2022]	[22:28:33] osvaldo#8952 Request ACES price
+[31-Mar-2022]	[22:30:31] ---SYSTEM--- StonksBot#2363 is ready
+[31-Mar-2022]	[22:30:48] osvaldo#8952 Request DNAR price
+[31-Mar-2022]	[22:31:01] osvaldo#8952 Request POLU price
+[31-Mar-2022]	[22:34:48] osvaldo#8952 Request KINO price
+[31-Mar-2022]	[22:35:18] osvaldo#8952 Delete 999 messages on osvaldo's server
+[31-Mar-2022]	[22:35:28] osvaldo#8952 Request JSKY price
+[31-Mar-2022]	[22:35:33] osvaldo#8952 Request BSML price
+[31-Mar-2022]	[22:35:45] osvaldo#8952 Request NETV price
+[01-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[8:44:19] osvaldo#8952 Request HOKI price
+[01-Apr-2022]	[8:44:35] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[9:09:42] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[9:09:59] osvaldo#8952 Request FPNI price
+[01-Apr-2022]	[9:21:12] osvaldo#8952 Request POLA price
+[01-Apr-2022]	[9:55:55] osvaldo#8952 Request BBYB price
+[01-Apr-2022]	[11:45:10] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[11:45:16] osvaldo#8952 Request BGTG price
+[01-Apr-2022]	[11:57:32] osvaldo#8952 Delete 999 messages on osvaldo's server
+[01-Apr-2022]	[11:58:06] osvaldo#8952 Request BBYB price
+[01-Apr-2022]	[12:06:47] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:06:58] osvaldo#8952 Request BUMI price
+[01-Apr-2022]	[12:09:06] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:09:11] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[12:09:19] osvaldo#8952 Request TIRT price
+[01-Apr-2022]	[12:11:53] osvaldo#8952 Request BBYB price
+[01-Apr-2022]	[12:12:29] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:12:35] osvaldo#8952 Request BBYB price
+[01-Apr-2022]	[12:13:19] osvaldo#8952 Downloading Bot Log
+[01-Apr-2022]	[12:16:15] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:16:15] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[12:16:26] osvaldo#8952 Request OASA price
+[01-Apr-2022]	[12:17:19] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[12:17:20] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:17:33] osvaldo#8952 Request ADMR price
+[01-Apr-2022]	[12:18:06] osvaldo#8952 Request AGRO price
+[01-Apr-2022]	[12:19:05] osvaldo#8952 Request BBHI price
+[01-Apr-2022]	[12:22:04] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:22:07] osvaldo#8952 Request BGTG price
+[01-Apr-2022]	[12:22:48] osvaldo#8952 Request IHSG price
+[01-Apr-2022]	[12:23:45] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:23:50] osvaldo#8952 Request BYAN price
+[01-Apr-2022]	[12:24:13] osvaldo#8952 Request HKMU price
+[01-Apr-2022]	[12:24:49] osvaldo#8952 Request TINS price
+[01-Apr-2022]	[12:25:49] osvaldo#8952 Request BRPT price
+[01-Apr-2022]	[12:28:18] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:28:35] osvaldo#8952 Request DNAR price
+[01-Apr-2022]	[12:29:08] osvaldo#8952 Request YULE price
+[01-Apr-2022]	[12:29:35] osvaldo#8952 Request ADRO price
+[01-Apr-2022]	[12:30:34] osvaldo#8952 Request EMTK price
+[01-Apr-2022]	[12:33:46] osvaldo#8952 Request BIKE price
+[01-Apr-2022]	[12:34:09] osvaldo#8952 Request INCO price
+[01-Apr-2022]	[12:34:15] osvaldo#8952 Request NTBK price
+[01-Apr-2022]	[12:35:03] osvaldo#8952 Request ADCP price
+[01-Apr-2022]	[12:35:09] osvaldo#8952 Request WIKA price
+[01-Apr-2022]	[12:37:21] osvaldo#8952 Request ADRO price
+[01-Apr-2022]	[12:40:16] osvaldo#8952 Request MLPL price
+[01-Apr-2022]	[12:43:49] osvaldo#8952 Downloading Binance Coin List
+[01-Apr-2022]	[12:44:11] osvaldo#8952 Requesting info in osvaldo's server
+[01-Apr-2022]	[12:44:13] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:44:53] osvaldo#8952 Request ENRG price
+[01-Apr-2022]	[12:53:12] ---SYSTEM--- StonksBot#2363 is ready
+[01-Apr-2022]	[12:53:14] osvaldo#8952 Requesting info in osvaldo's server
+[01-Apr-2022]	[16:56:39] osvaldo#8952 Ask BBYB on osvaldo's server
+[01-Apr-2022]	[16:56:46] osvaldo#8952 Request BBYB price
+[01-Apr-2022]	[21:46:15] osvaldo#8952 Request BUKA price
+[01-Apr-2022]	[21:46:40] osvaldo#8952 Request MLPL price
+[02-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[02-Apr-2022]	[18:01:20] osvaldo#8952 Request BMHS price
+[02-Apr-2022]	[18:01:28] osvaldo#8952 Request BBYB price
+[02-Apr-2022]	[18:01:33] osvaldo#8952 Request BFIN price
+[02-Apr-2022]	[23:18:42] osvaldo#8952 Request TMAS price
+[02-Apr-2022]	[23:19:00] osvaldo#8952 Request IHSG price
+[02-Apr-2022]	[23:19:12] osvaldo#8952 Request BGTG price
+[03-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[03-Apr-2022]	[21:03:17] osvaldo#8952 Set BFIN plan on GYP
+[03-Apr-2022]	[21:03:26] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:04:33] osvaldo#8952 Set INDY plan on GYP
+[03-Apr-2022]	[21:04:44] osvaldo#8952 Removing SRTG on GYP
+[03-Apr-2022]	[21:04:48] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:04:54] osvaldo#8952 Removing SRTG on GYP
+[03-Apr-2022]	[21:04:57] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:05:19] osvaldo#8952 Removing SCMA on GYP
+[03-Apr-2022]	[21:05:32] osvaldo#8952 Removing MEDC on GYP
+[03-Apr-2022]	[21:05:35] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:05:58] osvaldo#8952 Removing DNAR on GYP
+[03-Apr-2022]	[21:06:00] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:06:08] osvaldo#8952 Removing KIOS on GYP
+[03-Apr-2022]	[21:06:10] osvaldo#8952 Displaying watchlist on GYP
+[03-Apr-2022]	[21:06:57] osvaldo#8952 Set TMAS plan on GYP
+[03-Apr-2022]	[21:08:30] osvaldo#8952 Set TBIG plan on GYP
+[03-Apr-2022]	[21:08:50] osvaldo#8952 Set TBIG plan on trade
+[03-Apr-2022]	[21:12:03] Gun#4565 Set MDKA plan on GYP
+[03-Apr-2022]	[21:14:11] osvaldo#8952 Set ANTM plan on GYP
+[04-Apr-2022]	[1:03:42] osvaldo#8952 Set TRJA plan on GYP
+[04-Apr-2022]	[1:04:04] osvaldo#8952 Displaying watchlist on GYP
+[04-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[04-Apr-2022]	[23:13:08] osvaldo#8952 Request BBYB price
+[04-Apr-2022]	[23:13:11] osvaldo#8952 Request TRJA price
+[04-Apr-2022]	[23:13:21] osvaldo#8952 Request BBHI price
+[04-Apr-2022]	[23:13:25] osvaldo#8952 Request ANTM price
+[04-Apr-2022]	[23:13:42] osvaldo#8952 Request INDY price
+[04-Apr-2022]	[23:50:09] osvaldo#8952 Ask broker CP trade
+[04-Apr-2022]	[23:50:21] osvaldo#8952 Ask broker AK trade
+[05-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[05-Apr-2022]	[20:20:55] osvaldo#8952 Displaying watchlist on trade
+[05-Apr-2022]	[20:45:48] osvaldo#8952 Removing TRJA on GYP
+[05-Apr-2022]	[20:46:05] osvaldo#8952 Set LSIP plan on GYP
+[05-Apr-2022]	[22:33:57] osvaldo#8952 Request BBYB price
+[05-Apr-2022]	[22:34:16] osvaldo#8952 Request CENT price
+[06-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[06-Apr-2022]	[10:35:47] osvaldo#8952 Request LSIP price
+[06-Apr-2022]	[10:35:53] osvaldo#8952 Displaying watchlist on GYP
+[06-Apr-2022]	[10:36:25] osvaldo#8952 Reset watchlist on GYP
+[06-Apr-2022]	[10:37:18] osvaldo#8952 Request BSDE price
+[06-Apr-2022]	[12:00:51] osvaldo#8952 Request BANK price
+[06-Apr-2022]	[17:28:27] osvaldo#8952 Request BANK price
+[06-Apr-2022]	[18:17:41] osvaldo#8952 Removing BBYB on trade
+[06-Apr-2022]	[18:17:41] osvaldo#8952 Removing SRTG on trade
+[06-Apr-2022]	[18:17:42] osvaldo#8952 Removing TAPG on trade
+[06-Apr-2022]	[18:17:42] osvaldo#8952 Removing DNAR on trade
+[06-Apr-2022]	[18:17:43] osvaldo#8952 Removing BBKP on trade
+[06-Apr-2022]	[18:17:46] osvaldo#8952 Displaying watchlist on trade
+[06-Apr-2022]	[18:19:55] osvaldo#8952 Request SMRA price
+[06-Apr-2022]	[18:19:58] osvaldo#8952 Request BSDE price
+[06-Apr-2022]	[18:20:15] osvaldo#8952 Request BBYB price
+[06-Apr-2022]	[18:26:34] ---SYSTEM--- StonksBot#2363 is ready
+[06-Apr-2022]	[18:26:34] osvaldo#8952 Ask WIRG on osvaldo's server
+[06-Apr-2022]	[18:26:40] osvaldo#8952 Ask ULTJ on osvaldo's server
+[06-Apr-2022]	[18:26:46] osvaldo#8952 Request ULTJ price
+[06-Apr-2022]	[18:26:48] osvaldo#8952 Request WIRG price
+[06-Apr-2022]	[18:27:26] osvaldo#8952 Request NANO price
+[06-Apr-2022]	[18:27:36] osvaldo#8952 Request ASLC price
+[06-Apr-2022]	[18:27:41] osvaldo#8952 Request SRTG price
+[06-Apr-2022]	[18:27:44] osvaldo#8952 Request BANK price
+[06-Apr-2022]	[18:28:14] osvaldo#8952 Showing bot crypto status
+[06-Apr-2022]	[18:28:21] osvaldo#8952 Set coin to ETHUSDT
+[06-Apr-2022]	[18:28:32] osvaldo#8952 Downloading Bot Log
+[06-Apr-2022]	[18:28:51] osvaldo#8952 Request SEMA price
+[06-Apr-2022]	[18:29:00] osvaldo#8952 Request KOBX price
+[06-Apr-2022]	[18:29:08] osvaldo#8952 Request FPNI price
+[06-Apr-2022]	[18:29:14] osvaldo#8952 Request SMRA price
+[06-Apr-2022]	[18:29:20] osvaldo#8952 Request MEDC price
+[06-Apr-2022]	[18:29:29] osvaldo#8952 Request CENT price
+[06-Apr-2022]	[18:29:37] osvaldo#8952 Request TRJA price
+[06-Apr-2022]	[18:29:46] osvaldo#8952 Delete 999 messages on trade
+[06-Apr-2022]	[22:53:05] osvaldo#8952 Request BBYB price
+[07-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[07-Apr-2022]	[9:31:24] osvaldo#8952 Set BBKP plan on trade
+[07-Apr-2022]	[9:31:51] osvaldo#8952 Set BBYB plan on trade
+[07-Apr-2022]	[9:35:57] osvaldo#8952 Request BFIN price
+[07-Apr-2022]	[9:45:28] osvaldo#8952 Set CMRY plan on GYP
+[07-Apr-2022]	[9:45:31] osvaldo#8952 Displaying watchlist on GYP
+[07-Apr-2022]	[9:45:44] osvaldo#8952 Set CMRY plan on trade
+[07-Apr-2022]	[16:34:50] osvaldo#8952 Set TAPG plan on GYP
+[07-Apr-2022]	[16:35:11] osvaldo#8952 Set TAPG plan on trade
+[07-Apr-2022]	[16:35:13] osvaldo#8952 Displaying watchlist on trade
+[07-Apr-2022]	[17:44:55] osvaldo#8952 Ask broker IF osvaldo's server
+[07-Apr-2022]	[17:45:08] osvaldo#8952 Ask broker YU osvaldo's server
+[08-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[08-Apr-2022]	[15:22:44] osvaldo#8952 Request ADMR price
+[09-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[09-Apr-2022]	[11:53:54] osvaldo#8952 Set CENT plan on GYP
+[09-Apr-2022]	[11:53:57] osvaldo#8952 Removing TAPG on GYP
+[09-Apr-2022]	[11:54:07] osvaldo#8952 Displaying watchlist on GYP
+[09-Apr-2022]	[11:54:20] osvaldo#8952 Set CENT plan on trade
+[09-Apr-2022]	[11:54:20] osvaldo#8952 Displaying watchlist on trade
+[09-Apr-2022]	[15:11:08] osvaldo#8952 Request IHSG price
+[10-Apr-2022]	[1:10:07] ---SYSTEM--- StonksBot#2363 is ready
+[10-Apr-2022]	[1:11:25] osvaldo#8952 Set coin to BTCUSDT
+[10-Apr-2022]	[1:11:33] osvaldo#8952 Downloading Binance Coin List
+[10-Apr-2022]	[1:12:01] osvaldo#8952 Delete 5 messages on GYP
+[10-Apr-2022]	[7:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[10-Apr-2022]	[15:32:29] osvaldo#8952 Request BBYB price
+[10-Apr-2022]	[15:32:34] osvaldo#8952 Request OKAS price
+[10-Apr-2022]	[15:32:36] osvaldo#8952 Request WIRG price
+[10-Apr-2022]	[15:32:52] osvaldo#8952 Request MEDC price
+[10-Apr-2022]	[15:33:15] osvaldo#8952 Request NETV price
+[11-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[11-Apr-2022]	[19:07:59] osvaldo#8952 Request WIRG price
+[11-Apr-2022]	[20:52:03] osvaldo#8952 Request ANTM price
+[12-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[13:15:12] osvaldo#8952 Request WIRG price
+[12-Apr-2022]	[13:17:18] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[13:17:37] osvaldo#8952 Request GOTO price
+[12-Apr-2022]	[13:17:59] osvaldo#8952 Request IHSG price
+[12-Apr-2022]	[13:18:34] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[13:19:22] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[13:19:30] osvaldo#8952 Request SICO price
+[12-Apr-2022]	[13:19:39] osvaldo#8952 Request BANK price
+[12-Apr-2022]	[13:23:15] osvaldo#8952 Request CNTB price
+[12-Apr-2022]	[15:29:52] osvaldo#8952 Request ZBRA price
+[12-Apr-2022]	[15:50:31] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[15:50:43] osvaldo#8952 Request BMHS price
+[12-Apr-2022]	[15:50:49] osvaldo#8952 Request SICO price
+[12-Apr-2022]	[15:51:10] osvaldo#8952 Request WIRG price
+[12-Apr-2022]	[15:52:06] osvaldo#8952 Request IHSG price
+[12-Apr-2022]	[15:52:12] osvaldo#8952 Request OKAS price
+[12-Apr-2022]	[16:11:06] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:12:37] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:13:49] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:15:40] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:18:38] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:20:19] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:25:32] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:26:51] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:28:45] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:40:36] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:40:47] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:41:45] osvaldo#8952 Request BBHI price
+[12-Apr-2022]	[16:45:10] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:45:22] osvaldo#8952 Updated Stock List
+[12-Apr-2022]	[16:45:30] osvaldo#8952 Downloading Bot Log
+[12-Apr-2022]	[16:50:34] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:52:08] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:52:54] osvaldo#8952 Updated Stock List
+[12-Apr-2022]	[16:53:42] ---SYSTEM--- StonksBot#2363 is ready
+[12-Apr-2022]	[16:53:44] osvaldo#8952 Request TLDN price
+[12-Apr-2022]	[18:33:18] osvaldo#8952 Request IHSG price
+[12-Apr-2022]	[19:34:53] osvaldo#8952 Showing bot crypto status
+[13-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[13-Apr-2022]	[18:08:58] osvaldo#8952 Request SAME price
+[13-Apr-2022]	[18:09:12] osvaldo#8952 Request BGTG price
+[13-Apr-2022]	[18:09:25] osvaldo#8952 Request CPRO price
+[13-Apr-2022]	[18:09:34] osvaldo#8952 Request BANK price
+[13-Apr-2022]	[18:09:44] osvaldo#8952 Request AMRT price
+[13-Apr-2022]	[18:09:56] osvaldo#8952 Request MEDC price
+[13-Apr-2022]	[18:10:19] osvaldo#8952 Request ADMR price
+[13-Apr-2022]	[18:10:34] osvaldo#8952 Request BBHI price
+[13-Apr-2022]	[18:10:46] osvaldo#8952 Request CMPP price
+[13-Apr-2022]	[18:10:50] osvaldo#8952 Request MLPL price
+[13-Apr-2022]	[18:11:06] osvaldo#8952 Request ASSA price
+[13-Apr-2022]	[18:11:15] osvaldo#8952 Displaying watchlist on osvaldo's server
+[13-Apr-2022]	[18:11:25] osvaldo#8952 Reset watchlist on osvaldo's server
+[13-Apr-2022]	[18:12:19] osvaldo#8952 Updated Stock List
+[13-Apr-2022]	[18:12:35] ---SYSTEM--- StonksBot#2363 is ready
+[13-Apr-2022]	[18:12:38] osvaldo#8952 Showing bot crypto status
+[13-Apr-2022]	[20:14:13] osvaldo#8952 Reset watchlist on trade
+[14-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[14-Apr-2022]	[21:21:12] osvaldo#8952 Turned Off Reminder
+[14-Apr-2022]	[21:31:50] osvaldo#8952 Request ASSA price
+[14-Apr-2022]	[21:31:57] osvaldo#8952 Request SICO price
+[14-Apr-2022]	[21:32:09] osvaldo#8952 Request ASSA price
+[15-Apr-2022]	[7:35:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[15-Apr-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[15-Apr-2022]	[13:33:32] osvaldo#8952 Turned On Reminder
+[15-Apr-2022]	[23:14:32] osvaldo#8952 Showing bot crypto status
+[16-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[17-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[17-Apr-2022]	[12:27:08] osvaldo#8952 Set EXCL plan on trade
+[17-Apr-2022]	[12:27:29] osvaldo#8952 Set EXCL plan on GYP
+[17-Apr-2022]	[13:31:40] osvaldo#8952 Set IMJS plan on GYP
+[17-Apr-2022]	[13:31:51] osvaldo#8952 Set IMJS plan on trade
+[17-Apr-2022]	[13:34:04] osvaldo#8952 Set BBYB plan on trade
+[17-Apr-2022]	[13:34:18] osvaldo#8952 Set BBYB plan on GYP
+[17-Apr-2022]	[13:34:26] osvaldo#8952 Displaying watchlist on GYP
+[17-Apr-2022]	[13:35:01] osvaldo#8952 Removing CMRY on GYP
+[17-Apr-2022]	[13:35:01] osvaldo#8952 Removing CENT on GYP
+[17-Apr-2022]	[13:35:14] osvaldo#8952 Displaying watchlist on GYP
+[17-Apr-2022]	[13:35:28] osvaldo#8952 Displaying watchlist on GYP
+[17-Apr-2022]	[13:35:33] osvaldo#8952 Displaying watchlist on trade
+[17-Apr-2022]	[13:37:17] osvaldo#8952 Set MLPL plan on trade
+[17-Apr-2022]	[13:37:31] osvaldo#8952 Set MLPL plan on GYP
+[17-Apr-2022]	[13:38:20] osvaldo#8952 Set AGRO plan on trade
+[17-Apr-2022]	[13:38:23] osvaldo#8952 Displaying watchlist on trade
+[17-Apr-2022]	[13:39:06] osvaldo#8952 Ask broker MK trade
+[17-Apr-2022]	[13:39:20] osvaldo#8952 Displaying watchlist on GYP
+[17-Apr-2022]	[19:07:44] osvaldo#8952 Set SAME plan on GYP
+[17-Apr-2022]	[19:08:28] osvaldo#8952 Set SAME plan on trade
+[17-Apr-2022]	[19:08:33] osvaldo#8952 Displaying watchlist on trade
+[18-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[18-Apr-2022]	[7:53:25] osvaldo#8952 Set BRIS plan on GYP
+[18-Apr-2022]	[7:53:30] osvaldo#8952 Displaying watchlist on GYP
+[18-Apr-2022]	[23:34:01] osvaldo#8952 Set BFIN plan on trade
+[18-Apr-2022]	[23:34:07] osvaldo#8952 Displaying watchlist on trade
+[18-Apr-2022]	[23:34:24] osvaldo#8952 Removing AGRO on trade
+[18-Apr-2022]	[23:34:32] osvaldo#8952 Displaying watchlist on trade
+[18-Apr-2022]	[23:34:54] osvaldo#8952 Removing EXCL on trade
+[18-Apr-2022]	[23:34:55] osvaldo#8952 Removing IMJS on trade
+[18-Apr-2022]	[23:35:03] osvaldo#8952 Displaying watchlist on trade
+[18-Apr-2022]	[23:35:47] osvaldo#8952 Removing IMJS on GYP
+[18-Apr-2022]	[23:35:47] osvaldo#8952 Removing EXCL on GYP
+[18-Apr-2022]	[23:36:01] osvaldo#8952 Set BFIN plan on GYP
+[19-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[10:27:50] osvaldo#8952 Request IHSG price
+[19-Apr-2022]	[10:52:46] osvaldo#8952 Request BFIN price
+[19-Apr-2022]	[12:00:38] osvaldo#8952 Set ADHI plan on trade
+[19-Apr-2022]	[12:01:48] osvaldo#8952 Request bot invitation link on osvaldo's server
+[19-Apr-2022]	[12:01:53] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[12:02:01] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[12:02:55] osvaldo#8952 Set AGRO plan on osvaldo's server
+[19-Apr-2022]	[12:02:57] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[12:03:00] osvaldo#8952 Removing AGRO on osvaldo's server
+[19-Apr-2022]	[12:03:59] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[12:04:07] osvaldo#8952 Request bot invitation link on trade
+[19-Apr-2022]	[12:04:24] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[12:12:01] osvaldo#8952 Delete 999 messages on osvaldo's server
+[19-Apr-2022]	[12:12:07] osvaldo#8952 Delete 5 messages on osvaldo's server
+[19-Apr-2022]	[12:12:09] osvaldo#8952 Request bot invitation link on osvaldo's server
+[19-Apr-2022]	[12:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[12:35:14] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[12:35:23] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[12:38:21] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[12:39:14] osvaldo#8952 Delete 3 messages on osvaldo's server
+[19-Apr-2022]	[12:39:18] osvaldo#8952 Delete 3 messages on osvaldo's server
+[19-Apr-2022]	[12:39:24] osvaldo#8952 Delete 3 messages on osvaldo's server
+[19-Apr-2022]	[20:06:57] osvaldo#8952 Updated Stock List
+[19-Apr-2022]	[20:50:20] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[20:50:28] osvaldo#8952 Request bot invitation link on osvaldo's server
+[19-Apr-2022]	[20:50:54] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[20:51:05] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[20:51:31] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[20:53:33] osvaldo#8952 Displaying watchlist on trade
+[19-Apr-2022]	[20:54:10] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[20:54:37] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[20:54:58] osvaldo#8952 Request bot invitation link on osvaldo's server
+[19-Apr-2022]	[20:55:02] ADMIN Stonksbot kicked from osvaldo's server
+[19-Apr-2022]	[20:56:18] ADMIN Stonksbot invited to osvaldo's server
+[19-Apr-2022]	[20:56:42] osvaldo#8952 Set AGRS plan on osvaldo's server
+[19-Apr-2022]	[20:56:43] osvaldo#8952 Assign 965839715993530378 on 925367837256728626 server
+[19-Apr-2022]	[20:56:47] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[20:56:51] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[20:56:57] osvaldo#8952 Delete 999 messages on osvaldo's server
+[19-Apr-2022]	[20:57:23] osvaldo#8952 Downloading BTC price
+[19-Apr-2022]	[20:57:48] osvaldo#8952 Showing bot crypto status
+[19-Apr-2022]	[20:57:53] osvaldo#8952 Downloading Binance Coin List
+[19-Apr-2022]	[21:07:28] osvaldo#8952 Delete 9999 messages on osvaldo's server
+[19-Apr-2022]	[21:07:29] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[21:07:31] osvaldo#8952 Requesting info in osvaldo's server
+[19-Apr-2022]	[22:30:38] osvaldo#8952 Requesting info in trade
+[19-Apr-2022]	[22:44:09] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[22:44:14] osvaldo#8952 Requesting info in osvaldo's server
+[19-Apr-2022]	[22:47:16] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[22:47:17] osvaldo#8952 Requesting info in osvaldo's server
+[19-Apr-2022]	[22:47:23] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[22:47:42] osvaldo#8952 Set BGTG plan on osvaldo's server
+[19-Apr-2022]	[22:47:45] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[22:53:30] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[22:53:38] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[22:53:40] osvaldo#8952 Requesting info in osvaldo's server
+[19-Apr-2022]	[22:54:57] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[22:54:58] ---SYSTEM--- StonksBot#2363 is ready
+[19-Apr-2022]	[22:56:20] osvaldo#8952 Displaying watchlist on trade
+[19-Apr-2022]	[22:59:38] osvaldo#8952 Request bot invitation link on osvaldo's server
+[19-Apr-2022]	[23:00:22] osvaldo#8952 Request BGTG price
+[19-Apr-2022]	[23:00:33] osvaldo#8952 Request MLPL price
+[19-Apr-2022]	[23:03:24] osvaldo#8952 Showing bot crypto status
+[19-Apr-2022]	[23:04:24] osvaldo#8952 Updated Stock List
+[19-Apr-2022]	[23:21:00] osvaldo#8952 Requesting info in Nekone
+[19-Apr-2022]	[23:21:03] osvaldo#8952 Displaying watchlist on Nekone
+[19-Apr-2022]	[23:22:32] osvaldo#8952 Request SRTG price
+[19-Apr-2022]	[23:22:42] osvaldo#8952 Request RALS price
+[19-Apr-2022]	[23:27:52] osvaldo#8952 Reset watchlist on osvaldo's server
+[19-Apr-2022]	[23:28:24] osvaldo#8952 Set BGTG plan on osvaldo's server
+[19-Apr-2022]	[23:28:31] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:28:40] osvaldo#8952 Delete 9999 messages on osvaldo's server
+[19-Apr-2022]	[23:28:48] osvaldo#8952 Set BUDI plan on osvaldo's server
+[19-Apr-2022]	[23:28:49] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:28:59] osvaldo#8952 Set GOTO plan on osvaldo's server
+[19-Apr-2022]	[23:29:03] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:36:06] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:36:49] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:37:06] osvaldo#8952 Removing GOTO on osvaldo's server
+[19-Apr-2022]	[23:37:23] osvaldo#8952 Displaying watchlist on trade
+[19-Apr-2022]	[23:37:33] osvaldo#8952 Displaying watchlist on Nekone
+[19-Apr-2022]	[23:37:41] osvaldo#8952 Set KINO plan on Nekone
+[19-Apr-2022]	[23:39:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:39:13] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:39:29] osvaldo#8952 Set GZCO plan on osvaldo's server
+[19-Apr-2022]	[23:39:34] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-Apr-2022]	[23:40:16] osvaldo#8952 Request bot invitation link on trade
+[20-Apr-2022]	[1:07:03] ---SYSTEM--- StonksBot#2363 is ready
+[20-Apr-2022]	[1:07:10] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[1:07:29] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[1:07:42] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[1:07:48] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[1:07:58] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[1:09:03] osvaldo#8952 Removing BBYB on trade
+[20-Apr-2022]	[1:09:03] osvaldo#8952 Removing SAME on trade
+[20-Apr-2022]	[1:09:04] osvaldo#8952 Removing MLPL on trade
+[20-Apr-2022]	[1:09:04] osvaldo#8952 Removing BFIN on trade
+[20-Apr-2022]	[1:09:15] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[1:15:01] osvaldo#8952 Set EMTK plan on GYP
+[20-Apr-2022]	[1:15:02] osvaldo#8952 Displaying watchlist on GYP
+[20-Apr-2022]	[1:15:56] osvaldo#8952 Removing BBYB on GYP
+[20-Apr-2022]	[1:15:57] osvaldo#8952 Removing MLPL on GYP
+[20-Apr-2022]	[1:15:57] osvaldo#8952 Removing BRIS on GYP
+[20-Apr-2022]	[1:15:58] osvaldo#8952 Removing BFIN on GYP
+[20-Apr-2022]	[1:16:01] osvaldo#8952 Displaying watchlist on GYP
+[20-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[20-Apr-2022]	[11:54:22] osvaldo#8952 Set BUKA plan on trade
+[20-Apr-2022]	[12:12:42] osvaldo#8952 Set PGAS plan on trade
+[20-Apr-2022]	[12:12:54] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[12:12:58] osvaldo#8952 Request bot invitation link on osvaldo's server
+[20-Apr-2022]	[12:13:12] ADMIN Stonksbot invited to test sb
+[20-Apr-2022]	[12:13:20] osvaldo#8952 Requesting info in test sb
+[20-Apr-2022]	[12:14:29] osvaldo#8952 Set BGTG plan on test sb
+[20-Apr-2022]	[12:14:30] osvaldo#8952 Displaying watchlist on test sb
+[20-Apr-2022]	[12:14:36] osvaldo#8952 Set BUKA plan on test sb
+[20-Apr-2022]	[12:14:50] osvaldo#8952 Displaying watchlist on test sb
+[20-Apr-2022]	[12:14:54] osvaldo#8952 Removing BGTG on test sb
+[20-Apr-2022]	[12:17:19] ADMIN Stonksbot kicked from osvaldo's server
+[20-Apr-2022]	[12:20:21] osvaldo#8952 Displaying watchlist on test sb
+[20-Apr-2022]	[12:20:27] osvaldo#8952 Set BGTG plan on test sb
+[20-Apr-2022]	[12:20:33] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[12:20:58] osvaldo#8952 Set PGAS plan on GYP
+[20-Apr-2022]	[12:21:00] osvaldo#8952 Displaying watchlist on GYP
+[20-Apr-2022]	[12:21:32] osvaldo#8952 Assign 966015324040364045 on 966015324040364042 server
+[20-Apr-2022]	[12:21:40] ADMIN Stonksbot invited to osvaldo's server
+[20-Apr-2022]	[12:21:45] osvaldo#8952 Delete 99999 messages on osvaldo's server
+[20-Apr-2022]	[12:21:49] osvaldo#8952 Set BGTG plan on osvaldo's server
+[20-Apr-2022]	[12:21:52] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[12:21:58] osvaldo#8952 Set BRMS plan on osvaldo's server
+[20-Apr-2022]	[12:21:59] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[12:22:03] osvaldo#8952 Removing BRMS on osvaldo's server
+[20-Apr-2022]	[12:22:11] osvaldo#8952 Set BUDI plan on osvaldo's server
+[20-Apr-2022]	[12:22:13] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[12:22:18] osvaldo#8952 Reset watchlist on osvaldo's server
+[20-Apr-2022]	[12:26:09] osvaldo#8952 Request EXCL price
+[20-Apr-2022]	[12:26:19] osvaldo#8952 Request ISAT price
+[20-Apr-2022]	[12:26:55] osvaldo#8952 Set GOTO plan on osvaldo's server
+[20-Apr-2022]	[12:26:58] osvaldo#8952 Displaying watchlist on osvaldo's server
+[20-Apr-2022]	[12:30:39] osvaldo#8952 Request PGAS price
+[20-Apr-2022]	[12:31:01] osvaldo#8952 Request BBYB price
+[20-Apr-2022]	[13:21:41] osvaldo#8952 Displaying watchlist on test sb
+[20-Apr-2022]	[13:21:52] osvaldo#8952 Reset watchlist on test sb
+[20-Apr-2022]	[13:38:47] osvaldo#8952 Set TRIM plan on GYP
+[20-Apr-2022]	[13:40:32] osvaldo#8952 Request BBNI price
+[20-Apr-2022]	[13:43:38] osvaldo#8952 Request GOTO price
+[20-Apr-2022]	[13:45:22] osvaldo#8952 Request BUKA price
+[20-Apr-2022]	[16:15:33] osvaldo#8952 Displaying watchlist on GYP
+[20-Apr-2022]	[16:16:28] osvaldo#8952 Requesting info in trade
+[20-Apr-2022]	[16:16:35] osvaldo#8952 Delete 9999 messages on trade
+[20-Apr-2022]	[16:17:05] osvaldo#8952 Requesting info in trade
+[20-Apr-2022]	[20:26:25] osvaldo#8952 Updated Stock List
+[20-Apr-2022]	[20:26:51] ---SYSTEM--- StonksBot#2363 is ready
+[20-Apr-2022]	[20:26:54] osvaldo#8952 Showing bot crypto status
+[20-Apr-2022]	[20:27:42] ---SYSTEM--- StonksBot#2363 is ready
+[20-Apr-2022]	[20:39:43] osvaldo#8952 Set CSRA plan on GYP
+[20-Apr-2022]	[20:40:54] osvaldo#8952 Set CSRA plan on trade
+[20-Apr-2022]	[20:40:56] osvaldo#8952 Displaying watchlist on trade
+[20-Apr-2022]	[21:09:22] osvaldo#8952 Showing bot crypto status
+[20-Apr-2022]	[21:29:32] osvaldo#8952 Ask broker II osvaldo's server
+[21-Apr-2022]	[7:05:30] osvaldo#8952 Set CSRA plan on test sb
+[21-Apr-2022]	[7:05:33] osvaldo#8952 Displaying watchlist on test sb
+[21-Apr-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[21-Apr-2022]	[22:11:02] osvaldo#8952 Updated Stock List
+[21-Apr-2022]	[22:11:24] ---SYSTEM--- StonksBot#2363 is ready
+[21-Apr-2022]	[22:11:27] osvaldo#8952 Showing bot crypto status
+[21-Apr-2022]	[22:11:35] osvaldo#8952 Request MTMH price
+[21-Apr-2022]	[22:50:20] osvaldo#8952 Set TOWR plan on GYP
+[21-Apr-2022]	[22:50:33] osvaldo#8952 Set notes on GYP containing 'B.O.B'
+[21-Apr-2022]	[22:51:18] osvaldo#8952 Set TOWR plan on trade
+[21-Apr-2022]	[22:51:36] osvaldo#8952 Set notes on trade containing 'Buy on Breakout'
+[21-Apr-2022]	[22:57:57] osvaldo#8952 Set SCMA plan on trade
+[21-Apr-2022]	[22:58:07] osvaldo#8952 Set SCMA plan on test sb
+[21-Apr-2022]	[22:58:20] osvaldo#8952 Set SCMA plan on GYP
+[21-Apr-2022]	[23:01:20] osvaldo#8952 Set BANK plan on GYP
+[21-Apr-2022]	[23:01:55] osvaldo#8952 Set BANK plan on trade
+[21-Apr-2022]	[23:03:03] osvaldo#8952 Set ERAA plan on trade
+[21-Apr-2022]	[23:03:23] osvaldo#8952 Set ERAA plan on GYP
+[21-Apr-2022]	[23:03:27] osvaldo#8952 Displaying watchlist on GYP
+[21-Apr-2022]	[23:08:15] osvaldo#8952 Set SAME plan on trade
+[21-Apr-2022]	[23:08:16] osvaldo#8952 Displaying watchlist on trade
+[21-Apr-2022]	[23:11:50] osvaldo#8952 Set LSIP plan on GYP
+[21-Apr-2022]	[23:11:50] osvaldo#8952 Displaying watchlist on GYP
+[21-Apr-2022]	[23:11:58] osvaldo#8952 Displaying watchlist on GYP
+[21-Apr-2022]	[23:12:23] osvaldo#8952 Set LSIP plan on trade
+[21-Apr-2022]	[23:12:24] osvaldo#8952 Displaying watchlist on trade
+[21-Apr-2022]	[23:12:46] osvaldo#8952 Removing BUKA on trade
+[21-Apr-2022]	[23:13:00] osvaldo#8952 Displaying watchlist on trade
+[21-Apr-2022]	[23:16:03] osvaldo#8952 Set ACES plan on trade
+[21-Apr-2022]	[23:22:46] osvaldo#8952 Requesting info in trade
+[21-Apr-2022]	[23:28:06] osvaldo#8952 Requesting info in test sb
+[21-Apr-2022]	[23:28:10] osvaldo#8952 Request bot invitation link on test sb
+[21-Apr-2022]	[23:28:58] osvaldo#8952 Ask broker AK test sb
+[21-Apr-2022]	[23:29:01] osvaldo#8952 Ask broker YU test sb
+[21-Apr-2022]	[23:29:04] osvaldo#8952 Ask broker CC test sb
+[21-Apr-2022]	[23:29:09] osvaldo#8952 Ask broker CP test sb
+[21-Apr-2022]	[23:29:36] osvaldo#8952 Ask KINO on test sb
+[21-Apr-2022]	[23:29:40] osvaldo#8952 Ask MTMH on test sb
+[21-Apr-2022]	[23:31:20] osvaldo#8952 Requesting info in test sb
+[21-Apr-2022]	[23:31:58] osvaldo#8952 Displaying watchlist on test sb
+[21-Apr-2022]	[23:34:19] osvaldo#8952 Displaying watchlist on trade
+[22-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[22-Apr-2022]	[14:38:17] osvaldo#8952 Removing BANK on trade
+[22-Apr-2022]	[14:38:18] osvaldo#8952 Removing SCMA on trade
+[22-Apr-2022]	[14:38:18] osvaldo#8952 Removing EMTK on trade
+[22-Apr-2022]	[14:38:19] osvaldo#8952 Removing CSRA on trade
+[22-Apr-2022]	[14:38:23] osvaldo#8952 Displaying watchlist on trade
+[22-Apr-2022]	[14:40:58] osvaldo#8952 Displaying watchlist on GYP
+[22-Apr-2022]	[14:41:17] osvaldo#8952 Removing CSRA on GYP
+[22-Apr-2022]	[14:41:17] osvaldo#8952 Removing BANK on GYP
+[22-Apr-2022]	[14:41:30] osvaldo#8952 Removing CSRA on test sb
+[22-Apr-2022]	[14:41:34] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[14:41:40] osvaldo#8952 Set BGTG plan on test sb
+[22-Apr-2022]	[14:41:45] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[14:41:53] osvaldo#8952 Removing SCMA on test sb
+[22-Apr-2022]	[14:42:02] osvaldo#8952 Set KINO plan on test sb
+[22-Apr-2022]	[14:42:07] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[14:42:13] osvaldo#8952 Removing BGTG on test sb
+[22-Apr-2022]	[14:42:19] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[14:42:27] osvaldo#8952 Removing KINO on test sb
+[22-Apr-2022]	[14:50:16] osvaldo#8952 Removing TOWR on GYP
+[22-Apr-2022]	[15:07:19] osvaldo#8952 Set AMAR plan on trade
+[22-Apr-2022]	[15:07:20] osvaldo#8952 Displaying watchlist on trade
+[22-Apr-2022]	[15:18:54] osvaldo#8952 Ask broker LG Nekone
+[22-Apr-2022]	[22:45:56] osvaldo#8952 Set BIRD plan on test sb
+[22-Apr-2022]	[22:47:31] osvaldo#8952 Set BALI plan on test sb
+[22-Apr-2022]	[22:48:55] osvaldo#8952 Set IMJS plan on test sb
+[22-Apr-2022]	[22:48:57] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[22:50:50] osvaldo#8952 Set SAMF plan on test sb
+[22-Apr-2022]	[22:52:02] osvaldo#8952 Set INDF plan on GYP
+[22-Apr-2022]	[22:52:06] osvaldo#8952 Displaying watchlist on GYP
+[22-Apr-2022]	[22:52:22] osvaldo#8952 Set INDF plan on trade
+[22-Apr-2022]	[22:52:24] osvaldo#8952 Displaying watchlist on trade
+[22-Apr-2022]	[22:52:40] osvaldo#8952 Set INDF plan on test sb
+[22-Apr-2022]	[22:54:27] osvaldo#8952 Set PZZA plan on test sb
+[22-Apr-2022]	[22:54:27] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[22:56:59] osvaldo#8952 Set HRTA plan on test sb
+[22-Apr-2022]	[22:57:14] osvaldo#8952 Set HRTA plan on trade
+[22-Apr-2022]	[22:57:15] osvaldo#8952 Displaying watchlist on trade
+[22-Apr-2022]	[23:00:56] osvaldo#8952 Set TECH plan on test sb
+[22-Apr-2022]	[23:01:01] osvaldo#8952 Removing TECH on test sb
+[22-Apr-2022]	[23:01:12] osvaldo#8952 Set TECH plan on test sb
+[22-Apr-2022]	[23:01:13] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[23:03:47] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[23:09:21] osvaldo#8952 Set ASSA plan on test sb
+[22-Apr-2022]	[23:14:16] osvaldo#8952 Set BSDE plan on test sb
+[22-Apr-2022]	[23:14:37] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[23:20:21] osvaldo#8952 Set BFIN plan on test sb
+[22-Apr-2022]	[23:20:26] osvaldo#8952 Displaying watchlist on test sb
+[22-Apr-2022]	[23:21:11] osvaldo#8952 Displaying watchlist on dion's server
+[23-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[23-Apr-2022]	[14:42:00] osvaldo#8952 Requesting info in dion's server
+[23-Apr-2022]	[14:42:37] osvaldo#8952 Displaying watchlist on dion's server
+[23-Apr-2022]	[17:58:33] osvaldo#8952 Set notes on dion's server containing 'wood eraa care'
+[23-Apr-2022]	[19:31:53] osvaldo#8952 Request MAMI price
+[23-Apr-2022]	[22:48:23] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[22:50:46] osvaldo#8952 Set BUKA plan on osvaldo's server
+[23-Apr-2022]	[22:50:51] osvaldo#8952 Set BRMS plan on osvaldo's server
+[23-Apr-2022]	[22:50:57] osvaldo#8952 Set GZCO plan on osvaldo's server
+[23-Apr-2022]	[22:51:01] osvaldo#8952 Set HRTA plan on osvaldo's server
+[23-Apr-2022]	[22:51:06] osvaldo#8952 Set KINO plan on osvaldo's server
+[23-Apr-2022]	[22:51:13] osvaldo#8952 Set UNIQ plan on osvaldo's server
+[23-Apr-2022]	[22:51:14] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[22:51:26] osvaldo#8952 Set MAMI plan on osvaldo's server
+[23-Apr-2022]	[22:51:38] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[22:58:23] osvaldo#8952 Removing BUKA on osvaldo's server
+[23-Apr-2022]	[22:58:24] osvaldo#8952 Removing MAMI on osvaldo's server
+[23-Apr-2022]	[22:58:46] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:03:37] ---SYSTEM--- StonksBot#2363 is ready
+[23-Apr-2022]	[23:03:51] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:04:03] osvaldo#8952 Set OASA plan on osvaldo's server
+[23-Apr-2022]	[23:04:11] osvaldo#8952 Set SRSN plan on osvaldo's server
+[23-Apr-2022]	[23:04:16] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:04:25] osvaldo#8952 Removing GOTO on osvaldo's server
+[23-Apr-2022]	[23:04:26] osvaldo#8952 Removing BRMS on osvaldo's server
+[23-Apr-2022]	[23:04:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:04:46] osvaldo#8952 Removing HRTA on osvaldo's server
+[23-Apr-2022]	[23:04:49] osvaldo#8952 Removing KINO on osvaldo's server
+[23-Apr-2022]	[23:07:01] ---SYSTEM--- StonksBot#2363 is ready
+[23-Apr-2022]	[23:07:12] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:07:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:08:20] ---SYSTEM--- StonksBot#2363 is ready
+[23-Apr-2022]	[23:08:33] osvaldo#8952 Set BBCA plan on osvaldo's server
+[23-Apr-2022]	[23:08:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:14:47] ---SYSTEM--- StonksBot#2363 is ready
+[23-Apr-2022]	[23:14:47] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:15:01] osvaldo#8952 Displaying watchlist on trade
+[23-Apr-2022]	[23:16:45] osvaldo#8952 Displaying watchlist on osvaldo's server
+[23-Apr-2022]	[23:18:56] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[10:01:22] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:05:16] osvaldo#8952 Delete 9999 messages on dion's server
+[24-Apr-2022]	[10:29:31] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[10:29:33] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:30:08] osvaldo#8952 Displaying watchlist on trade
+[24-Apr-2022]	[10:31:05] osvaldo#8952 Displaying watchlist on trade
+[24-Apr-2022]	[10:31:06] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[10:31:23] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:31:48] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[10:31:50] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:40:54] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[10:40:55] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:41:03] osvaldo#8952 Set BBRI plan on osvaldo's server
+[24-Apr-2022]	[10:41:32] osvaldo#8952 Reset watchlist on osvaldo's server
+[24-Apr-2022]	[10:42:06] osvaldo#8952 Set HRTA plan on osvaldo's server
+[24-Apr-2022]	[10:42:15] osvaldo#8952 Set SRSN plan on osvaldo's server
+[24-Apr-2022]	[10:42:15] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[10:42:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[12:12:44] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:15:21] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:16:03] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:16:59] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:17:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[12:18:09] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:18:19] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[12:18:38] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[12:18:58] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Apr-2022]	[12:21:10] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[12:22:38] ---SYSTEM--- StonksBot#2363 is ready
+[24-Apr-2022]	[12:23:24] osvaldo#8952 Update Database on 966015324040364042
+[24-Apr-2022]	[12:23:29] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[14:12:01] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[14:12:11] osvaldo#8952 Update Database on 966015324040364042
+[24-Apr-2022]	[14:12:23] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[14:12:50] osvaldo#8952 Update Database on 966015324040364042
+[24-Apr-2022]	[14:12:59] osvaldo#8952 Displaying watchlist on dion's server
+[24-Apr-2022]	[16:56:38] Svane-#6200 Requesting info in dion's server
+[25-Apr-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[10:47:56] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[10:47:58] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:48:10] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[10:48:16] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:48:44] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:49:57] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:51:09] osvaldo#8952 Set BBCA plan on osvaldo's server
+[25-Apr-2022]	[10:51:09] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:54:08] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[10:54:08] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:55:13] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Apr-2022]	[10:55:20] osvaldo#8952 Set HRTA plan on osvaldo's server
+[25-Apr-2022]	[10:55:20] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:58:08] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[10:58:10] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[10:58:20] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[11:04:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:05:24] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:05:24] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[11:05:36] osvaldo#8952 Set BBCA plan on osvaldo's server
+[25-Apr-2022]	[11:05:37] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:06:28] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[11:06:29] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:06:37] osvaldo#8952 Removing BBCA on osvaldo's server
+[25-Apr-2022]	[11:06:41] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:06:52] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[11:07:06] osvaldo#8952 Update Database on 860313506440282112
+[25-Apr-2022]	[11:07:12] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[11:07:38] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:07:48] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:08:01] osvaldo#8952 Assign 956761859187437578 on 925367837256728626 server
+[25-Apr-2022]	[11:08:46] osvaldo#8952 Update Database on 925367837256728626
+[25-Apr-2022]	[11:08:50] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:09:24] osvaldo#8952 Update Database on 925367837256728626
+[25-Apr-2022]	[11:09:30] osvaldo#8952 Update Database on 925367837256728626
+[25-Apr-2022]	[11:09:43] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:10:06] osvaldo#8952 Update Database on 925367837256728626
+[25-Apr-2022]	[11:10:14] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[11:12:47] osvaldo#8952 Delete 999 messages on osvaldo's server
+[25-Apr-2022]	[11:12:48] osvaldo#8952 Displaying watchlist on osvaldo's server
+[25-Apr-2022]	[19:17:43] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[19:17:55] osvaldo#8952 Set BIRD plan on trade
+[25-Apr-2022]	[19:18:26] osvaldo#8952 Removing LSIP on trade
+[25-Apr-2022]	[19:18:46] osvaldo#8952 Removing SAME on trade
+[25-Apr-2022]	[19:19:02] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[19:19:31] osvaldo#8952 Removing ADHI on trade
+[25-Apr-2022]	[19:19:32] osvaldo#8952 Removing AMAR on trade
+[25-Apr-2022]	[19:19:36] osvaldo#8952 Displaying watchlist on trade
+[25-Apr-2022]	[19:19:36] osvaldo#8952 Removing HRTA on trade
+[25-Apr-2022]	[19:20:14] osvaldo#8952 Removing SAME on GYP
+[25-Apr-2022]	[19:20:15] osvaldo#8952 Removing SCMA on GYP
+[25-Apr-2022]	[19:20:19] osvaldo#8952 Removing LSIP on GYP
+[25-Apr-2022]	[19:20:41] osvaldo#8952 Set BFIN plan on GYP
+[25-Apr-2022]	[19:20:42] osvaldo#8952 Displaying watchlist on GYP
+[25-Apr-2022]	[19:20:55] osvaldo#8952 Update Database on 951842185035264010
+[25-Apr-2022]	[19:21:20] osvaldo#8952 Update Database on 951842185035264010
+[25-Apr-2022]	[20:31:15] ---SYSTEM--- StonksBot#2363 is ready
+[25-Apr-2022]	[20:49:50] osvaldo#8952 Showing bot crypto status
+[26-Apr-2022]	[1:17:20] osvaldo#8952 Ask broker BB osvaldo's server
+[26-Apr-2022]	[1:17:32] osvaldo#8952 Ask broker RX osvaldo's server
+[26-Apr-2022]	[1:17:44] osvaldo#8952 Ask broker YU osvaldo's server
+[26-Apr-2022]	[1:18:55] osvaldo#8952 Set BRMS plan on trade
+[26-Apr-2022]	[1:18:58] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[14:12:01] osvaldo#8952 Set ENRG plan on trade
+[26-Apr-2022]	[14:12:19] osvaldo#8952 Set ENRG plan on GYP
+[26-Apr-2022]	[14:12:20] osvaldo#8952 Displaying watchlist on GYP
+[26-Apr-2022]	[14:12:32] osvaldo#8952 Set ENRG plan on dion's server
+[26-Apr-2022]	[14:12:34] osvaldo#8952 Displaying watchlist on dion's server
+[26-Apr-2022]	[14:13:32] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[14:21:29] osvaldo#8952 Set MLPL plan on trade
+[26-Apr-2022]	[14:21:33] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[14:23:28] osvaldo#8952 Request BUKA price
+[26-Apr-2022]	[22:20:05] osvaldo#8952 Set PPGL plan on trade
+[26-Apr-2022]	[22:21:44] osvaldo#8952 Set SCMA plan on dion's server
+[26-Apr-2022]	[22:23:57] osvaldo#8952 Set DEPO plan on dion's server
+[26-Apr-2022]	[22:23:59] osvaldo#8952 Displaying watchlist on dion's server
+[26-Apr-2022]	[22:24:13] osvaldo#8952 Update Database on 966015324040364042
+[26-Apr-2022]	[22:24:20] osvaldo#8952 Set coin to ETHUSDT
+[26-Apr-2022]	[22:24:35] osvaldo#8952 Displaying watchlist on dion's server
+[26-Apr-2022]	[22:25:38] osvaldo#8952 Set BIRD plan on trade
+[26-Apr-2022]	[22:25:39] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[22:27:31] osvaldo#8952 Removing EMTK on GYP
+[26-Apr-2022]	[22:27:32] osvaldo#8952 Removing BFIN on GYP
+[26-Apr-2022]	[22:27:38] osvaldo#8952 Displaying watchlist on GYP
+[26-Apr-2022]	[22:28:41] osvaldo#8952 Set BRMS plan on GYP
+[26-Apr-2022]	[22:28:42] osvaldo#8952 Displaying watchlist on GYP
+[26-Apr-2022]	[22:28:47] osvaldo#8952 Displaying watchlist on GYP
+[26-Apr-2022]	[22:29:30] osvaldo#8952 Set MLPL plan on GYP
+[26-Apr-2022]	[22:29:31] osvaldo#8952 Displaying watchlist on GYP
+[26-Apr-2022]	[22:29:35] osvaldo#8952 Removing ACES on trade
+[26-Apr-2022]	[22:29:36] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[22:30:07] osvaldo#8952 Request IHSG price
+[26-Apr-2022]	[22:34:18] osvaldo#8952 Displaying watchlist on trade
+[26-Apr-2022]	[22:34:18] osvaldo#8952 Set MTDL plan on trade
+[26-Apr-2022]	[22:34:24] osvaldo#8952 Displaying watchlist on trade
+[27-Apr-2022]	[14:05:55] osvaldo#8952 Request IHSG price
+[28-Apr-2022]	[11:34:26] ---SYSTEM--- StonksBot#2363 is ready
+[28-Apr-2022]	[11:35:02] osvaldo#8952 Turned Off Reminder
+[28-Apr-2022]	[11:35:30] ---SYSTEM--- Day Off Stock Market Closed Today !
+[28-Apr-2022]	[11:35:33] ---SYSTEM--- StonksBot#2363 is ready
+[28-Apr-2022]	[12:48:22] ---SYSTEM--- Day Off Stock Market Closed Today !
+[28-Apr-2022]	[12:48:25] ---SYSTEM--- StonksBot#2363 is ready
+[28-Apr-2022]	[12:49:56] osvaldo#8952 Reset watchlist on dion's server
+[28-Apr-2022]	[12:51:34] osvaldo#8952 Removing ERAA on GYP
+[28-Apr-2022]	[12:51:35] osvaldo#8952 Removing BRMS on GYP
+[28-Apr-2022]	[12:51:39] osvaldo#8952 Displaying watchlist on GYP
+[28-Apr-2022]	[12:51:49] osvaldo#8952 Removing ENRG on GYP
+[28-Apr-2022]	[12:51:51] osvaldo#8952 Displaying watchlist on GYP
+[28-Apr-2022]	[12:52:32] osvaldo#8952 Delete 100 messages on dion's server
+[28-Apr-2022]	[12:52:41] osvaldo#8952 Set TRIM plan on dion's server
+[28-Apr-2022]	[12:53:04] osvaldo#8952 Removing TOWR on trade
+[28-Apr-2022]	[12:53:05] osvaldo#8952 Removing ERAA on trade
+[28-Apr-2022]	[12:53:09] osvaldo#8952 Removing BIRD on trade
+[28-Apr-2022]	[12:53:13] osvaldo#8952 Displaying watchlist on trade
+[28-Apr-2022]	[12:53:23] osvaldo#8952 Removing PPGL on trade
+[28-Apr-2022]	[12:53:24] osvaldo#8952 Removing BIRD on trade
+[28-Apr-2022]	[12:53:35] osvaldo#8952 Set TRIM plan on trade
+[28-Apr-2022]	[12:53:36] osvaldo#8952 Displaying watchlist on trade
+[28-Apr-2022]	[22:10:58] osvaldo#8952 Showing bot crypto status
+[29-Apr-2022]	[7:35:04] ---SYSTEM--- Day Off Stock Market Closed Today !
+[29-Apr-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[29-Apr-2022]	[15:26:30] osvaldo#8952 Set BRIS plan on trade
+[29-Apr-2022]	[15:26:32] osvaldo#8952 Displaying watchlist on trade
+[29-Apr-2022]	[15:27:20] osvaldo#8952 Removing TRIM on trade
+[29-Apr-2022]	[15:27:31] osvaldo#8952 Set TRIM plan on trade
+[29-Apr-2022]	[15:27:31] osvaldo#8952 Displaying watchlist on trade
+[29-Apr-2022]	[19:22:47] osvaldo#8952 Set AMAR plan on trade
+[29-Apr-2022]	[19:26:37] osvaldo#8952 Set ASRI plan on trade
+[29-Apr-2022]	[19:36:25] osvaldo#8952 Set DGIK plan on trade
+[29-Apr-2022]	[19:36:27] osvaldo#8952 Displaying watchlist on trade
+[29-Apr-2022]	[19:45:06] osvaldo#8952 Set MEDC plan on trade
+[29-Apr-2022]	[19:45:18] osvaldo#8952 Set MEDC plan on GYP
+[29-Apr-2022]	[19:45:41] osvaldo#8952 Set AMAR plan on GYP
+[29-Apr-2022]	[19:45:52] osvaldo#8952 Set AMAR plan on dion's server
+[29-Apr-2022]	[19:46:08] osvaldo#8952 Set MEDC plan on dion's server
+[29-Apr-2022]	[19:46:08] osvaldo#8952 Displaying watchlist on dion's server
+[29-Apr-2022]	[19:47:33] osvaldo#8952 Set MMLP plan on GYP
+[30-Apr-2022]	[7:35:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[30-Apr-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[01-May-2022]	[7:35:03] ---SYSTEM--- Day Off Stock Market Closed Today !
+[01-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[01-May-2022]	[10:55:47] osvaldo#8952 Updated Stock List
+[01-May-2022]	[10:56:17] ---SYSTEM--- Day Off Stock Market Closed Today !
+[01-May-2022]	[10:56:19] ---SYSTEM--- StonksBot#2363 is ready
+[01-May-2022]	[10:56:27] osvaldo#8952 Ask IBOS on osvaldo's server
+[01-May-2022]	[16:32:24] osvaldo#8952 Set coin to BTCUSDT
+[02-May-2022]	[7:35:03] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[02-May-2022]	[14:33:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:33:07] ---SYSTEM--- StonksBot#2363 is ready
+[02-May-2022]	[14:35:42] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:43] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:43] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:44] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:44] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:45] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:46] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:46] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:47] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:48] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:48] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:49] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:50] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:50] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:51] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:35:51] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:37:34] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:37:37] ---SYSTEM--- StonksBot#2363 is ready
+[02-May-2022]	[14:39:39] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:39] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:40] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:40] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:41] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:42] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:42] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:43] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:44] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:44] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:45] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:45] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:46] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:47] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:47] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:39:48] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:44:13] ---SYSTEM--- Day Off Stock Market Closed Today !
+[02-May-2022]	[14:44:16] ---SYSTEM--- StonksBot#2363 is ready
+[02-May-2022]	[14:44:22] osvaldo#8952 Showing bot crypto status
+[03-May-2022]	[7:35:04] ---SYSTEM--- Day Off Stock Market Closed Today !
+[03-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[04-May-2022]	[7:35:03] ---SYSTEM--- Day Off Stock Market Closed Today !
+[04-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[04-May-2022]	[8:13:43] osvaldo#8952 Delete 999 messages on Nekone
+[05-May-2022]	[7:35:03] ---SYSTEM--- Day Off Stock Market Closed Today !
+[05-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[05-May-2022]	[18:06:24] osvaldo#8952 Displaying watchlist on trade
+[06-May-2022]	[7:35:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[06-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[7:35:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[07-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[12:42:53] osvaldo#8952 Turned On Reminder
+[07-May-2022]	[13:23:27] osvaldo#8952 Request BRIS price
+[07-May-2022]	[13:24:08] osvaldo#8952 Request BUKA price
+[07-May-2022]	[13:37:04] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[13:37:04] osvaldo#8952 Request BGTG price
+[07-May-2022]	[13:37:22] osvaldo#8952 Request IHSG price
+[07-May-2022]	[13:37:37] osvaldo#8952 Request GOTO price
+[07-May-2022]	[13:37:54] osvaldo#8952 Request GOTO price
+[07-May-2022]	[13:38:11] osvaldo#8952 Request UNIQ price
+[07-May-2022]	[13:46:27] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[13:47:23] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[13:47:26] osvaldo#8952 Request BUKA price
+[07-May-2022]	[13:49:23] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[13:49:31] osvaldo#8952 Request BUKA price
+[07-May-2022]	[13:49:42] osvaldo#8952 Request ADMR price
+[07-May-2022]	[14:14:30] osvaldo#8952 Request BGTG price
+[07-May-2022]	[14:14:46] osvaldo#8952 Displaying watchlist on osvaldo's server
+[07-May-2022]	[14:15:02] osvaldo#8952 Request HRTA price
+[07-May-2022]	[18:05:16] osvaldo#8952 Set coin to ETHUS
+[07-May-2022]	[18:05:40] osvaldo#8952 Request BUKA price
+[07-May-2022]	[18:05:49] osvaldo#8952 Request ADMR price
+[07-May-2022]	[18:06:11] osvaldo#8952 Request BGTG price
+[07-May-2022]	[18:06:25] osvaldo#8952 Request KINO price
+[07-May-2022]	[18:06:28] osvaldo#8952 Request GOTO price
+[07-May-2022]	[18:07:05] osvaldo#8952 Displaying watchlist on osvaldo's server
+[07-May-2022]	[18:07:18] osvaldo#8952 Displaying watchlist on trade
+[07-May-2022]	[18:07:51] osvaldo#8952 Requesting info in osvaldo's server
+[07-May-2022]	[18:08:20] osvaldo#8952 Request BRIS price
+[07-May-2022]	[18:09:21] osvaldo#8952 Request TMAS price
+[07-May-2022]	[18:10:05] osvaldo#8952 Request TUGU price
+[07-May-2022]	[18:10:27] osvaldo#8952 Request OKAS price
+[07-May-2022]	[18:10:32] osvaldo#8952 Request PKPK price
+[07-May-2022]	[18:10:41] osvaldo#8952 Request BSML price
+[07-May-2022]	[18:12:33] osvaldo#8952 Turned On Reminder
+[07-May-2022]	[18:12:45] osvaldo#8952 Request MYOR price
+[07-May-2022]	[18:13:39] osvaldo#8952 Request TLKM price
+[07-May-2022]	[18:13:48] osvaldo#8952 Request ADMR price
+[07-May-2022]	[18:13:53] osvaldo#8952 Request ADRO price
+[07-May-2022]	[18:14:12] osvaldo#8952 Request ASII price
+[07-May-2022]	[18:14:17] osvaldo#8952 Request FPNI price
+[07-May-2022]	[18:52:39] osvaldo#8952 Request GOTO price
+[07-May-2022]	[19:58:17] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[20:38:22] osvaldo#8952 Request ANTM price
+[07-May-2022]	[21:37:11] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[21:38:01] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[21:57:53] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[21:58:08] osvaldo#8952 Request ADMR price
+[07-May-2022]	[21:59:30] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[21:59:38] osvaldo#8952 Request OKAS price
+[07-May-2022]	[22:01:09] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:02:25] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:02:31] osvaldo#8952 Request NRCA price
+[07-May-2022]	[22:08:30] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:11:01] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:11:14] osvaldo#8952 Request ADMR price
+[07-May-2022]	[22:15:01] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:15:21] osvaldo#8952 Request BGTG price
+[07-May-2022]	[22:18:56] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:20:32] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:20:41] osvaldo#8952 Request AGRO price
+[07-May-2022]	[22:21:17] osvaldo#8952 Request KKGI price
+[07-May-2022]	[22:21:29] osvaldo#8952 Request INKP price
+[07-May-2022]	[22:24:25] osvaldo#8952 Request ASRI price
+[07-May-2022]	[22:24:58] osvaldo#8952 Request BUMI price
+[07-May-2022]	[22:25:07] osvaldo#8952 Request BRMS price
+[07-May-2022]	[22:43:57] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:44:02] osvaldo#8952 Request ADMR price
+[07-May-2022]	[22:45:23] osvaldo#8952 Requesting info in osvaldo's server
+[07-May-2022]	[22:48:29] osvaldo#8952 Requesting info in osvaldo's server
+[07-May-2022]	[22:48:29] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:48:34] osvaldo#8952 Delete 99 messages on osvaldo's server
+[07-May-2022]	[22:48:39] osvaldo#8952 Requesting info in osvaldo's server
+[07-May-2022]	[22:48:49] osvaldo#8952 Request ADMR price
+[07-May-2022]	[22:51:09] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:51:12] osvaldo#8952 Request AGRS price
+[07-May-2022]	[22:51:57] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:52:00] osvaldo#8952 Request ADMR price
+[07-May-2022]	[22:52:35] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:52:38] osvaldo#8952 Request FPNI price
+[07-May-2022]	[22:53:29] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:53:32] osvaldo#8952 Request TKIM price
+[07-May-2022]	[22:54:19] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:54:26] osvaldo#8952 Request LSIP price
+[07-May-2022]	[22:55:53] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:55:58] osvaldo#8952 Request BGTG price
+[07-May-2022]	[22:56:41] osvaldo#8952 Request TRIM price
+[07-May-2022]	[22:56:55] osvaldo#8952 Set coin to BTCUSDT
+[07-May-2022]	[22:57:55] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[22:58:05] osvaldo#8952 Request PNLF price
+[07-May-2022]	[23:05:00] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:07:43] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:07:44] osvaldo#8952 Request PNLF price
+[07-May-2022]	[23:08:15] osvaldo#8952 Request AGRO price
+[07-May-2022]	[23:10:40] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:13:06] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:13:44] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:13:52] osvaldo#8952 Request BBYB price
+[07-May-2022]	[23:17:26] osvaldo#8952 Delete 99 messages on osvaldo's server
+[07-May-2022]	[23:17:36] osvaldo#8952 Request BYAN price
+[07-May-2022]	[23:17:51] osvaldo#8952 Request SCMA price
+[07-May-2022]	[23:18:20] osvaldo#8952 Request KOPI price
+[07-May-2022]	[23:19:53] osvaldo#8952 Request TLKM price
+[07-May-2022]	[23:20:03] osvaldo#8952 Request ASII price
+[07-May-2022]	[23:20:29] osvaldo#8952 Request EXCL price
+[07-May-2022]	[23:20:55] osvaldo#8952 Request ACES price
+[07-May-2022]	[23:21:16] osvaldo#8952 Request FPNI price
+[07-May-2022]	[23:21:28] osvaldo#8952 Request BACA price
+[07-May-2022]	[23:22:11] osvaldo#8952 Request CPRO price
+[07-May-2022]	[23:22:24] osvaldo#8952 Request JSMR price
+[07-May-2022]	[23:22:35] osvaldo#8952 Request ADRO price
+[07-May-2022]	[23:24:10] osvaldo#8952 Delete 99 messages on osvaldo's server
+[07-May-2022]	[23:24:11] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:24:21] osvaldo#8952 Request BNBR price
+[07-May-2022]	[23:24:57] osvaldo#8952 Request INKP price
+[07-May-2022]	[23:25:13] osvaldo#8952 Request OKAS price
+[07-May-2022]	[23:25:24] osvaldo#8952 Request NICL price
+[07-May-2022]	[23:25:32] osvaldo#8952 Request BEKS price
+[07-May-2022]	[23:25:43] osvaldo#8952 Request MSIN price
+[07-May-2022]	[23:25:51] osvaldo#8952 Request MCAS price
+[07-May-2022]	[23:25:59] osvaldo#8952 Request BABP price
+[07-May-2022]	[23:26:33] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:26:34] osvaldo#8952 Delete 999 messages on osvaldo's server
+[07-May-2022]	[23:26:51] osvaldo#8952 Request ISAT price
+[07-May-2022]	[23:28:14] ---SYSTEM--- StonksBot#2363 is ready
+[07-May-2022]	[23:28:14] osvaldo#8952 Delete 5 messages on osvaldo's server
+[07-May-2022]	[23:28:23] osvaldo#8952 Request HKMU price
+[07-May-2022]	[23:28:36] osvaldo#8952 Request SRTG price
+[07-May-2022]	[23:28:46] osvaldo#8952 Request MPMX price
+[07-May-2022]	[23:28:54] osvaldo#8952 Request JPFA price
+[07-May-2022]	[23:29:06] osvaldo#8952 Request MEDC price
+[07-May-2022]	[23:29:20] osvaldo#8952 Request ERAA price
+[07-May-2022]	[23:29:33] osvaldo#8952 Request RALS price
+[07-May-2022]	[23:30:02] osvaldo#8952 Request DGIK price
+[07-May-2022]	[23:30:36] osvaldo#8952 Request HRTA price
+[07-May-2022]	[23:30:49] osvaldo#8952 Request ADMF price
+[07-May-2022]	[23:30:54] osvaldo#8952 Request WOWS price
+[07-May-2022]	[23:31:23] osvaldo#8952 Request WOOD price
+[07-May-2022]	[23:31:50] osvaldo#8952 Request LSIP price
+[08-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[08-May-2022]	[8:01:52] osvaldo#8952 Request IMJS price
+[08-May-2022]	[8:20:39] osvaldo#8952 Request FPNI price
+[08-May-2022]	[10:47:39] osvaldo#8952 Request RBMS price
+[08-May-2022]	[11:39:05] osvaldo#8952 Request KOBX price
+[08-May-2022]	[11:39:17] osvaldo#8952 Request TLKM price
+[08-May-2022]	[11:39:40] osvaldo#8952 Request GOTO price
+[08-May-2022]	[16:47:04] osvaldo#8952 Request APLN price
+[08-May-2022]	[21:33:54] osvaldo#8952 Set WIKA plan on GYP
+[08-May-2022]	[21:33:54] osvaldo#8952 Displaying watchlist on GYP
+[09-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[11:08:52] osvaldo#8952 Request IHSG price
+[09-May-2022]	[13:20:19] osvaldo#8952 Request GOTO price
+[09-May-2022]	[13:20:27] osvaldo#8952 Request ADMR price
+[09-May-2022]	[13:20:37] osvaldo#8952 Request MPPA price
+[09-May-2022]	[13:20:41] osvaldo#8952 Request LPPF price
+[09-May-2022]	[13:20:48] osvaldo#8952 Request AGRO price
+[09-May-2022]	[13:20:57] osvaldo#8952 Request OKAS price
+[09-May-2022]	[13:21:04] osvaldo#8952 Request BBRI price
+[09-May-2022]	[14:43:01] osvaldo#8952 Reset watchlist on dion's server
+[09-May-2022]	[14:47:44] osvaldo#8952 Request TIRT price
+[09-May-2022]	[14:47:57] osvaldo#8952 Request ASII price
+[09-May-2022]	[14:48:16] osvaldo#8952 Request GGRM price
+[09-May-2022]	[14:48:26] osvaldo#8952 Request ERAA price
+[09-May-2022]	[14:48:54] osvaldo#8952 Request TLKM price
+[09-May-2022]	[14:49:10] osvaldo#8952 Request BBCA price
+[09-May-2022]	[14:49:29] osvaldo#8952 Request BMRI price
+[09-May-2022]	[14:49:34] osvaldo#8952 Request BBNI price
+[09-May-2022]	[14:49:47] osvaldo#8952 Request ASRI price
+[09-May-2022]	[14:49:59] osvaldo#8952 Request CTRA price
+[09-May-2022]	[14:50:13] osvaldo#8952 Request IHSG price
+[09-May-2022]	[18:29:59] osvaldo#8952 Request IHSG price
+[09-May-2022]	[21:00:50] osvaldo#8952 Reset watchlist on trade
+[09-May-2022]	[21:01:30] osvaldo#8952 Set IMJS plan on trade
+[09-May-2022]	[21:03:49] osvaldo#8952 Displaying watchlist on osvaldo's server
+[09-May-2022]	[21:04:14] osvaldo#8952 Requesting info in Nekone
+[09-May-2022]	[21:04:21] osvaldo#8952 Requesting info in Nekone
+[09-May-2022]	[21:04:31] osvaldo#8952 Reset watchlist on osvaldo's server
+[09-May-2022]	[22:53:54] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[22:54:57] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[22:55:06] osvaldo#8952 Requesting info in osvaldo's server
+[09-May-2022]	[23:32:53] osvaldo#8952 Set BBHI plan on osvaldo's server
+[09-May-2022]	[23:32:56] osvaldo#8952 Displaying watchlist on osvaldo's server
+[09-May-2022]	[23:38:27] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:38:28] osvaldo#8952 Displaying watchlist on osvaldo's server
+[09-May-2022]	[23:40:08] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:40:11] osvaldo#8952 Delete 999 messages on osvaldo's server
+[09-May-2022]	[23:40:58] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:42:06] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:42:06] osvaldo#8952 Delete 5 messages on osvaldo's server
+[09-May-2022]	[23:43:46] osvaldo#8952 Request BIMA price
+[09-May-2022]	[23:47:09] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:47:14] osvaldo#8952 Delete 12 messages on osvaldo's server
+[09-May-2022]	[23:48:05] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:49:11] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:49:58] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:50:01] osvaldo#8952 Requesting Daily Movers
+[09-May-2022]	[23:50:30] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:50:30] osvaldo#8952 Requesting Daily Movers
+[09-May-2022]	[23:53:55] osvaldo#8952 Showing bot crypto status
+[09-May-2022]	[23:54:01] osvaldo#8952 Downloading Bot Log
+[09-May-2022]	[23:56:30] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:59:12] ---SYSTEM--- StonksBot#2363 is ready
+[09-May-2022]	[23:59:14] osvaldo#8952 Requesting info in osvaldo's server
+[09-May-2022]	[23:59:17] osvaldo#8952 Delete 88 messages on osvaldo's server
+[09-May-2022]	[23:59:18] osvaldo#8952 Requesting Daily Movers
+[09-May-2022]	[23:59:47] osvaldo#8952 Requesting Daily Movers
+[09-May-2022]	[23:59:48] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[7:39:44] osvaldo#8952 Request IHSG price
+[10-May-2022]	[9:11:47] osvaldo#8952 Request ADMR price
+[10-May-2022]	[9:12:28] osvaldo#8952 Requesting Daily Movers
+[10-May-2022]	[12:00:37] osvaldo#8952 Requesting Daily Movers
+[10-May-2022]	[12:01:46] osvaldo#8952 Request KOBX price
+[10-May-2022]	[12:17:59] osvaldo#8952 Requesting Daily Movers
+[10-May-2022]	[12:24:38] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[12:24:42] osvaldo#8952 Requesting info in osvaldo's server
+[10-May-2022]	[12:24:48] osvaldo#8952 Request AGRS price
+[10-May-2022]	[12:25:00] osvaldo#8952 Request ADMR price
+[10-May-2022]	[12:26:08] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[12:26:27] osvaldo#8952 Request ADMR price
+[10-May-2022]	[12:27:35] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[12:27:38] osvaldo#8952 Delete 909 messages on osvaldo's server
+[10-May-2022]	[12:27:46] osvaldo#8952 Request ASII price
+[10-May-2022]	[12:27:54] osvaldo#8952 Request IHSG price
+[10-May-2022]	[12:28:49] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[12:28:56] osvaldo#8952 Delete 99 messages on osvaldo's server
+[10-May-2022]	[12:30:26] osvaldo#8952 Requesting Daily Movers
+[10-May-2022]	[12:43:37] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[12:51:29] osvaldo#8952 Set BFIN plan on trade
+[10-May-2022]	[12:54:04] osvaldo#8952 Reset watchlist on GYP
+[10-May-2022]	[12:54:25] osvaldo#8952 Set BFIN plan on GYP
+[10-May-2022]	[12:56:26] osvaldo#8952 Set BBTN plan on GYP
+[10-May-2022]	[12:56:45] osvaldo#8952 Displaying watchlist on GYP
+[10-May-2022]	[13:09:12] ---SYSTEM--- StonksBot#2363 is ready
+[10-May-2022]	[13:20:41] osvaldo#8952 Requesting Daily Movers
+[10-May-2022]	[15:47:21] osvaldo#8952 Requesting Daily Movers
+[11-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[11-May-2022]	[9:22:07] osvaldo#8952 Requesting Daily Movers
+[11-May-2022]	[14:20:40] osvaldo#8952 Requesting Daily Movers
+[11-May-2022]	[14:22:34] osvaldo#8952 Request BFIN price
+[11-May-2022]	[15:14:34] osvaldo#8952 Requesting Daily Movers
+[11-May-2022]	[15:15:08] osvaldo#8952 Request BFIN price
+[11-May-2022]	[21:12:22] osvaldo#8952 Set coin to LUNAUSDT
+[12-May-2022]	[5:06:25] ---SYSTEM--- StonksBot#2363 is ready
+[12-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[12-May-2022]	[10:39:31] osvaldo#8952 Requesting Daily Movers
+[12-May-2022]	[14:20:06] osvaldo#8952 Request IHSG price
+[12-May-2022]	[14:20:15] osvaldo#8952 Request BFIN price
+[12-May-2022]	[14:25:01] ---SYSTEM--- StonksBot#2363 is ready
+[12-May-2022]	[14:40:11] osvaldo#8952 Request IHSG price
+[12-May-2022]	[19:20:45] osvaldo#8952 Set coin to KAVAUSDT
+[12-May-2022]	[19:20:55] osvaldo#8952 Set coin to SXPUSDT
+[12-May-2022]	[19:21:24] osvaldo#8952 Set coin to BTCUSDT
+[12-May-2022]	[19:38:14] osvaldo#8952 Delete 7 messages on trade
+[13-May-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[13-May-2022]	[15:31:56] osvaldo#8952 Downloading Binance Coin List
+[13-May-2022]	[15:32:05] osvaldo#8952 Set coin to LUNAUSDT
+[13-May-2022]	[15:32:21] osvaldo#8952 Set coin to ETHUSDT
+[13-May-2022]	[15:32:27] osvaldo#8952 Set coin to BTCUSDT
+[13-May-2022]	[16:52:16] osvaldo#8952 Delete 90 messages on osvaldo's server
+[13-May-2022]	[16:52:19] osvaldo#8952 Requesting Daily Movers
+[13-May-2022]	[23:33:02] osvaldo#8952 Ask broker BK osvaldo's server
+[13-May-2022]	[23:33:06] osvaldo#8952 Ask broker BB osvaldo's server
+[13-May-2022]	[23:33:20] osvaldo#8952 Ask broker LG osvaldo's server
+[13-May-2022]	[23:33:25] osvaldo#8952 Ask broker YU osvaldo's server
+[13-May-2022]	[23:33:40] osvaldo#8952 Turned Off Reminder
+[13-May-2022]	[23:37:19] osvaldo#8952 Delete 99 messages on osvaldo's server
+[13-May-2022]	[23:37:21] osvaldo#8952 Requesting Daily Movers
+[14-May-2022]	[7:35:04] ---SYSTEM--- Day Off Stock Market Closed Today !
+[14-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[14-May-2022]	[11:37:58] ---SYSTEM--- StonksBot#2363 is ready
+[14-May-2022]	[11:41:15] ---SYSTEM--- StonksBot#2363 is ready
+[15-May-2022]	[7:35:02] ---SYSTEM--- Day Off Stock Market Closed Today !
+[15-May-2022]	[7:35:05] ---SYSTEM--- StonksBot#2363 is ready
+[15-May-2022]	[13:57:11] ---SYSTEM--- Day Off Stock Market Closed Today !
+[15-May-2022]	[13:57:14] ---SYSTEM--- StonksBot#2363 is ready
+[16-May-2022]	[7:35:03] ---SYSTEM--- Day Off Stock Market Closed Today !
+[16-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[16-May-2022]	[8:16:23] osvaldo#8952 Turned On Reminder
+[16-May-2022]	[8:16:43] osvaldo#8952 Downloading Bot Log
+[16-May-2022]	[8:21:15] osvaldo#8952 Requesting Daily Movers
+[16-May-2022]	[8:21:25] osvaldo#8952 Request BSSR price
+[16-May-2022]	[12:51:43] osvaldo#8952 Set TRIN plan on trade
+[16-May-2022]	[12:51:54] osvaldo#8952 Displaying watchlist on trade
+[16-May-2022]	[12:52:47] osvaldo#8952 Set BBTN plan on trade
+[16-May-2022]	[12:53:03] osvaldo#8952 Set BBTN plan on dion's server
+[16-May-2022]	[12:53:10] osvaldo#8952 Displaying watchlist on GYP
+[16-May-2022]	[12:59:42] osvaldo#8952 Request LTLS price
+[16-May-2022]	[13:00:34] osvaldo#8952 Displaying watchlist on trade
+[16-May-2022]	[13:00:57] osvaldo#8952 Removing BFIN on trade
+[16-May-2022]	[13:00:59] osvaldo#8952 Displaying watchlist on trade
+[16-May-2022]	[16:16:33] osvaldo#8952 Updated Stock List
+[16-May-2022]	[19:33:22] ---SYSTEM--- StonksBot#2363 is ready
+[16-May-2022]	[19:34:01] osvaldo#8952 Ask OLIV on osvaldo's server
+[16-May-2022]	[19:34:14] osvaldo#8952 Request OLIV price
+[16-May-2022]	[19:35:17] osvaldo#8952 Request FREN price
+[17-May-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[17-May-2022]	[8:38:22] osvaldo#8952 Displaying watchlist on trade
+[17-May-2022]	[8:38:39] osvaldo#8952 Displaying watchlist on dion's server
+[17-May-2022]	[8:38:46] osvaldo#8952 Displaying watchlist on GYP
+[17-May-2022]	[8:39:07] osvaldo#8952 Displaying watchlist on osvaldo's server
+[17-May-2022]	[11:35:25] osvaldo#8952 Requesting Daily Movers
+[17-May-2022]	[13:37:08] osvaldo#8952 Requesting Daily Movers
+[17-May-2022]	[16:18:21] osvaldo#8952 Requesting Daily Movers
+[17-May-2022]	[23:50:56] osvaldo#8952 Set OASA plan on trade
+[17-May-2022]	[23:51:02] osvaldo#8952 Displaying watchlist on trade
+[17-May-2022]	[23:51:45] osvaldo#8952 Showing bot crypto status
+[18-May-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[18-May-2022]	[11:38:52] osvaldo#8952 Requesting Daily Movers
+[18-May-2022]	[12:32:58] ---SYSTEM--- StonksBot#2363 is ready
+[18-May-2022]	[12:33:14] osvaldo#8952 Requesting info in osvaldo's server
+[18-May-2022]	[12:33:50] osvaldo#8952 Set TRIN plan on GYP
+[18-May-2022]	[12:33:50] osvaldo#8952 Displaying watchlist on GYP
+[18-May-2022]	[21:09:43] osvaldo#8952 Set BBHI plan on trade
+[18-May-2022]	[21:09:58] osvaldo#8952 Displaying watchlist on trade
+[19-May-2022]	[7:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[8:39:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-May-2022]	[9:37:10] osvaldo#8952 Set ISAT plan on GYP
+[19-May-2022]	[9:37:11] osvaldo#8952 Displaying watchlist on GYP
+[19-May-2022]	[9:48:19] osvaldo#8952 Set TINS plan on GYP
+[19-May-2022]	[9:48:21] osvaldo#8952 Displaying watchlist on GYP
+[19-May-2022]	[11:21:58] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[11:49:12] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[11:49:22] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[11:49:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[19-May-2022]	[11:49:58] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[11:53:28] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[11:53:30] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[12:04:35] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:07:49] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:08:21] osvaldo#8952 Requesting info in osvaldo's server
+[19-May-2022]	[12:09:27] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:10:42] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:12:36] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:12:38] osvaldo#8952 Delete 99 messages on osvaldo's server
+[19-May-2022]	[12:25:29] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:26:15] osvaldo#8952 Set coin to ETHUSDT
+[19-May-2022]	[12:26:40] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:29:28] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:33:09] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:37:57] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:48:48] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:48:51] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:50:36] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:50:40] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:53:10] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:53:12] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:54:38] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:54:43] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:55:00] osvaldo#8952 Set coin to UNIUSDT
+[19-May-2022]	[12:55:04] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:59:09] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[12:59:10] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:59:20] osvaldo#8952 Set coin to BTCUSDT
+[19-May-2022]	[12:59:25] osvaldo#8952 Turned On Reminder
+[19-May-2022]	[12:59:31] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[12:59:38] osvaldo#8952 Restarting Bot
+[19-May-2022]	[12:59:57] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[13:00:03] osvaldo#8952 Downloading Bot Log
+[19-May-2022]	[13:03:40] osvaldo#8952 Delete 99 messages on osvaldo's server
+[19-May-2022]	[13:06:45] osvaldo#8952 Restarting Bot
+[19-May-2022]	[13:07:04] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[13:08:55] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[13:08:58] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[13:11:08] osvaldo#8952 Restarting Bot
+[19-May-2022]	[13:11:27] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[13:12:43] osvaldo#8952 Restarting Bot
+[19-May-2022]	[13:13:02] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[13:13:08] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[15:07:40] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[15:10:22] osvaldo#8952 Delete 909 messages on osvaldo's server
+[19-May-2022]	[15:10:24] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[15:19:15] osvaldo#8952 Restarting Bot
+[19-May-2022]	[15:19:35] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[15:21:19] osvaldo#8952 Showing bot crypto status
+[19-May-2022]	[16:09:15] osvaldo#8952 Request TRIN price
+[19-May-2022]	[16:10:10] osvaldo#8952 Request BBTN price
+[19-May-2022]	[17:04:45] osvaldo#8952 Requesting Daily Movers
+[19-May-2022]	[20:18:32] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[20:18:39] osvaldo#8952 Showing bot crypto status
+[19-May-2022]	[20:19:08] osvaldo#8952 Restarting Bot
+[19-May-2022]	[20:19:13] ---SYSTEM--- StonksBot#2363 is ready
+[19-May-2022]	[20:19:25] osvaldo#8952 Showing bot crypto status
+[19-May-2022]	[23:24:44] osvaldo#8952 Set SIDO plan on GYP
+[19-May-2022]	[23:24:57] osvaldo#8952 Set SIDO plan on trade
+[19-May-2022]	[23:25:09] osvaldo#8952 Displaying watchlist on trade
+[20-May-2022]	[1:11:07] osvaldo#8952 Downloading Bot Log
+[20-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[20-May-2022]	[9:32:46] osvaldo#8952 Delete 99 messages on osvaldo's server
+[20-May-2022]	[9:32:50] osvaldo#8952 Requesting Daily Movers
+[20-May-2022]	[9:54:19] osvaldo#8952 Requesting Daily Movers
+[20-May-2022]	[10:29:09] osvaldo#8952 Request EMTK price
+[20-May-2022]	[11:33:29] ---SYSTEM--- StonksBot#2363 is ready
+[20-May-2022]	[12:21:40] ---SYSTEM--- StonksBot#2363 is ready
+[20-May-2022]	[12:25:27] osvaldo#8952 Restarting Bot
+[20-May-2022]	[12:25:33] ---SYSTEM--- StonksBot#2363 is ready
+[20-May-2022]	[12:27:45] osvaldo#8952 Downloading BTC price
+[20-May-2022]	[12:30:23] osvaldo#8952 Restarting Bot
+[20-May-2022]	[12:30:29] ---SYSTEM--- StonksBot#2363 is ready
+[20-May-2022]	[12:31:14] osvaldo#8952 Requesting Daily Movers
+[20-May-2022]	[14:21:37] osvaldo#8952 Displaying watchlist on GYP
+[20-May-2022]	[14:21:58] osvaldo#8952 Removing BFIN on GYP
+[20-May-2022]	[14:21:59] osvaldo#8952 Removing BBNI on GYP
+[20-May-2022]	[14:22:03] osvaldo#8952 Removing INCO on GYP
+[20-May-2022]	[14:22:04] osvaldo#8952 Removing ISAT on GYP
+[20-May-2022]	[14:22:18] osvaldo#8952 Set EMTK plan on GYP
+[20-May-2022]	[14:22:21] osvaldo#8952 Displaying watchlist on GYP
+[20-May-2022]	[15:25:15] osvaldo#8952 Showing bot crypto status
+[20-May-2022]	[20:50:45] osvaldo#8952 Set CMPP plan on GYP
+[21-May-2022]	[1:28:36] osvaldo#8952 Restarting Bot
+[21-May-2022]	[1:28:46] ---SYSTEM--- StonksBot#2363 is ready
+[21-May-2022]	[1:28:57] osvaldo#8952 Showing bot crypto status
+[21-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[22-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[23-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[23-May-2022]	[18:23:37] osvaldo#8952 Showing bot crypto status
+[23-May-2022]	[19:25:26] osvaldo#8952 Reset watchlist on trade
+[23-May-2022]	[20:16:37] ---SYSTEM--- StonksBot#2363 is ready
+[23-May-2022]	[20:17:00] osvaldo#8952 Showing bot crypto status
+[23-May-2022]	[21:09:56] osvaldo#8952 Request BBYB price
+[24-May-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[24-May-2022]	[16:19:11] osvaldo#8952 Showing bot crypto status
+[25-May-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[25-May-2022]	[15:26:32] osvaldo#8952 Showing bot crypto status
+[26-May-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[26-May-2022]	[9:08:53] osvaldo#8952 Turned Off Reminder
+[26-May-2022]	[9:08:59] osvaldo#8952 Restarting Bot
+[26-May-2022]	[9:09:02] ---SYSTEM--- Day Off Stock Market Closed Today !
+[26-May-2022]	[9:09:08] ---SYSTEM--- StonksBot#2363 is ready
+[26-May-2022]	[9:18:23] osvaldo#8952 Turned On Reminder
+[27-May-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[27-May-2022]	[19:29:33] osvaldo#8952 Showing bot crypto status
+[28-May-2022]	[7:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[29-May-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[29-May-2022]	[20:28:54] osvaldo#8952 Restarting Bot
+[29-May-2022]	[20:29:02] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[0:18:44] osvaldo#8952 Set EXCL plan on trade
+[30-May-2022]	[0:19:24] osvaldo#8952 Set ISAT plan on trade
+[30-May-2022]	[0:21:11] osvaldo#8952 Set ADMR plan on trade
+[30-May-2022]	[0:21:17] osvaldo#8952 Displaying watchlist on GYP
+[30-May-2022]	[0:21:42] osvaldo#8952 Reset watchlist on GYP
+[30-May-2022]	[0:21:49] osvaldo#8952 Set ADMR plan on GYP
+[30-May-2022]	[0:22:47] osvaldo#8952 Set SIDO plan on GYP
+[30-May-2022]	[0:22:56] osvaldo#8952 Set SIDO plan on trade
+[30-May-2022]	[0:24:05] osvaldo#8952 Set ELSA plan on trade
+[30-May-2022]	[0:24:08] osvaldo#8952 Displaying watchlist on trade
+[30-May-2022]	[0:24:18] osvaldo#8952 Set ELSA plan on GYP
+[30-May-2022]	[0:25:52] osvaldo#8952 Set SRTG plan on GYP
+[30-May-2022]	[0:25:53] osvaldo#8952 Displaying watchlist on GYP
+[30-May-2022]	[0:27:16] osvaldo#8952 Displaying watchlist on GYP
+[30-May-2022]	[0:27:39] osvaldo#8952 Set BUKA plan on GYP
+[30-May-2022]	[0:27:41] osvaldo#8952 Displaying watchlist on GYP
+[30-May-2022]	[0:27:46] osvaldo#8952 Displaying watchlist on GYP
+[30-May-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[11:49:04] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[11:50:46] osvaldo#8952 Set ESSA private plan on osvaldo's server
+[30-May-2022]	[11:51:41] osvaldo#8952 Set BUKA private plan on osvaldo's server
+[30-May-2022]	[11:51:48] osvaldo#8952 Set TLKM private plan on osvaldo's server
+[30-May-2022]	[11:51:53] osvaldo#8952 Set TRIN private plan on osvaldo's server
+[30-May-2022]	[11:52:02] osvaldo#8952 Set BMRI private plan on osvaldo's server
+[30-May-2022]	[11:55:50] osvaldo#8952 Downloading Bot Log
+[30-May-2022]	[11:59:52] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:09:41] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:09:44] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:10:29] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:10:32] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:10:36] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:14:23] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:14:32] osvaldo#8952 Set AGRS plan on osvaldo's server
+[30-May-2022]	[12:15:36] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:15:37] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:15:40] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:16:08] osvaldo#8952 Downloading Bot Log
+[30-May-2022]	[12:21:37] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:21:38] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:21:42] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:21:47] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:22:02] osvaldo#8952 Delete 90 messages on osvaldo's server
+[30-May-2022]	[12:22:06] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:22:09] osvaldo#8952 Displaying watchlist on osvaldo's server
+[30-May-2022]	[12:22:14] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:26:00] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:26:08] osvaldo#8952 Delete 90 messages on osvaldo's server
+[30-May-2022]	[12:26:22] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:27:01] osvaldo#8952 Set ABBA private plan
+[30-May-2022]	[12:27:04] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:33:17] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:33:22] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:34:43] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:36:50] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:37:02] osvaldo#8952 Delete 90 messages on osvaldo's server
+[30-May-2022]	[12:37:09] osvaldo#8952 Requesting info in osvaldo's server
+[30-May-2022]	[12:40:02] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:40:03] osvaldo#8952 Requesting info in osvaldo's server
+[30-May-2022]	[12:54:34] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:54:55] osvaldo#8952 Requesting info in osvaldo's server
+[30-May-2022]	[12:56:07] osvaldo#8952 Requesting info in osvaldo's server
+[30-May-2022]	[12:56:07] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[12:56:24] osvaldo#8952 Set ABBA private plan
+[30-May-2022]	[12:56:52] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[30-May-2022]	[12:56:57] osvaldo#8952 Displaying private watchlist on trade
+[30-May-2022]	[12:57:04] osvaldo#8952 Displaying private watchlist on Nekone
+[30-May-2022]	[15:43:58] osvaldo#8952 Downloading Bot Log
+[30-May-2022]	[15:44:14] osvaldo#8952 Set coin to ETHUSDT
+[30-May-2022]	[15:44:16] osvaldo#8952 Showing bot crypto status
+[30-May-2022]	[15:44:37] osvaldo#8952 Showing bot crypto status
+[30-May-2022]	[15:44:38] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[15:44:47] osvaldo#8952 Set coin to BTCUSDT
+[30-May-2022]	[15:44:53] osvaldo#8952 Restarting Bot
+[30-May-2022]	[15:45:01] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[18:15:48] osvaldo#8952 Restarting Bot
+[30-May-2022]	[18:15:49] osvaldo#8952 Showing bot crypto status
+[30-May-2022]	[18:15:57] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[18:16:14] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[18:16:34] osvaldo#8952 Restarting Bot
+[30-May-2022]	[18:16:40] ---SYSTEM--- StonksBot#2363 is ready
+[30-May-2022]	[18:16:47] osvaldo#8952 Showing bot crypto status
+[31-May-2022]	[0:41:43] osvaldo#8952 Displaying watchlist on GYP
+[31-May-2022]	[0:41:54] osvaldo#8952 Set SGER plan on GYP
+[31-May-2022]	[0:42:54] osvaldo#8952 Set SGER plan on trade
+[31-May-2022]	[0:42:55] osvaldo#8952 Displaying watchlist on trade
+[31-May-2022]	[0:43:01] osvaldo#8952 Displaying private watchlist on osvaldo's server
+[31-May-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[31-May-2022]	[12:17:31] osvaldo#8952 Request ADMR price
+[31-May-2022]	[12:17:43] osvaldo#8952 Request SGER price
+[31-May-2022]	[14:47:24] osvaldo#8952 Request BUKA price
+[31-May-2022]	[15:32:17] osvaldo#8952 Showing bot crypto status
+[31-May-2022]	[22:58:31] osvaldo#8952 Turned Off Reminder
+[01-Jun-2022]	[7:35:04] ---SYSTEM--- Day Off Stock Market Closed Today !
+[01-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[01-Jun-2022]	[16:32:38] osvaldo#8952 Turned On Reminder
+[01-Jun-2022]	[20:17:49] osvaldo#8952 Showing bot crypto status
+[02-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[02-Jun-2022]	[16:36:07] osvaldo#8952 Showing bot crypto status
+[02-Jun-2022]	[16:39:14] ---SYSTEM--- StonksBot#2363 is ready
+[02-Jun-2022]	[16:39:34] osvaldo#8952 Showing bot crypto status
+[03-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[03-Jun-2022]	[10:16:21] osvaldo#8952 Set WIRG plan on trade
+[03-Jun-2022]	[10:16:36] osvaldo#8952 Set WIRG plan on GYP
+[03-Jun-2022]	[10:17:25] osvaldo#8952 Removing ADMR on GYP
+[03-Jun-2022]	[10:17:25] osvaldo#8952 Removing SGER on GYP
+[03-Jun-2022]	[10:17:26] osvaldo#8952 Removing ELSA on GYP
+[03-Jun-2022]	[10:17:27] osvaldo#8952 Removing SIDO on GYP
+[03-Jun-2022]	[10:17:30] osvaldo#8952 Displaying watchlist on GYP
+[03-Jun-2022]	[10:18:05] osvaldo#8952 Displaying watchlist on trade
+[03-Jun-2022]	[10:18:18] osvaldo#8952 Reset watchlist on trade
+[03-Jun-2022]	[10:18:24] osvaldo#8952 Set WIRG plan on trade
+[03-Jun-2022]	[10:18:25] osvaldo#8952 Displaying watchlist on trade
+[04-Jun-2022]	[7:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[05-Jun-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[05-Jun-2022]	[21:49:32] osvaldo#8952 Set SRTG plan on trade
+[05-Jun-2022]	[21:49:52] osvaldo#8952 Set SRTG plan on GYP
+[05-Jun-2022]	[21:50:20] osvaldo#8952 Set ESSA plan on GYP
+[05-Jun-2022]	[21:50:32] osvaldo#8952 Set ESSA plan on trade
+[05-Jun-2022]	[21:50:33] osvaldo#8952 Displaying watchlist on trade
+[05-Jun-2022]	[21:50:52] osvaldo#8952 Displaying watchlist on GYP
+[05-Jun-2022]	[21:51:07] osvaldo#8952 Removing SRTG on GYP
+[05-Jun-2022]	[21:51:09] osvaldo#8952 Displaying watchlist on GYP
+[06-Jun-2022]	[9:04:36] ---SYSTEM--- StonksBot#2363 is ready
+[06-Jun-2022]	[11:02:57] osvaldo#8952 Request EMTK price
+[07-Jun-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[07-Jun-2022]	[16:11:47] osvaldo#8952 Request ESSA price
+[08-Jun-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[09-Jun-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[09-Jun-2022]	[20:52:07] osvaldo#8952 Reset watchlist on trade
+[09-Jun-2022]	[20:52:24] osvaldo#8952 Set ARTO plan on trade
+[10-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[11-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[11-Jun-2022]	[9:17:21] osvaldo#8952 Restarting Bot
+[11-Jun-2022]	[9:17:28] ---SYSTEM--- StonksBot#2363 is ready
+[12-Jun-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[12-Jun-2022]	[10:48:04] osvaldo#8952 Set coin to BNBUSDT
+[13-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[13-Jun-2022]	[14:31:34] osvaldo#8952 Set coin to BTCUSDT
+[14-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[15-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[12:01:54] osvaldo#8952 Requesting Daily Movers
+[16-Jun-2022]	[12:07:20] osvaldo#8952 Requesting Daily Movers
+[16-Jun-2022]	[16:07:25] osvaldo#8952 Delete 5 messages on osvaldo's server
+[16-Jun-2022]	[16:07:25] osvaldo#8952 Requesting Daily Movers
+[16-Jun-2022]	[16:13:17] osvaldo#8952 Requesting info in osvaldo's server
+[16-Jun-2022]	[16:14:47] osvaldo#8952 Request BGTG price
+[16-Jun-2022]	[16:15:56] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[16:15:57] osvaldo#8952 Requesting Daily Movers
+[16-Jun-2022]	[16:16:14] osvaldo#8952 Downloading Bot Log
+[16-Jun-2022]	[16:20:42] osvaldo#8952 Downloading BTC price
+[16-Jun-2022]	[16:21:36] osvaldo#8952 Showing bot crypto status
+[16-Jun-2022]	[16:33:37] osvaldo#8952 Restarting Bot
+[16-Jun-2022]	[16:33:43] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[16:33:46] osvaldo#8952 Showing bot crypto status
+[16-Jun-2022]	[16:34:14] osvaldo#8952 Restarting Bot
+[16-Jun-2022]	[16:34:20] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[16:34:29] osvaldo#8952 Status 1 displayed
+[16-Jun-2022]	[16:34:36] osvaldo#8952 Status 2 displayed
+[16-Jun-2022]	[16:34:41] osvaldo#8952 Status 3 displayed
+[16-Jun-2022]	[16:34:50] osvaldo#8952 Status 1 displayed
+[16-Jun-2022]	[16:35:01] osvaldo#8952 Status 5 displayed
+[16-Jun-2022]	[16:51:54] osvaldo#8952 Restarting Bot
+[16-Jun-2022]	[16:52:01] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jun-2022]	[16:53:28] osvaldo#8952 Status 3 displayed
+[17-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[17-Jun-2022]	[11:31:46] osvaldo#8952 Requesting Daily Movers
+[17-Jun-2022]	[11:43:46] osvaldo#8952 Status 3 displayed
+[17-Jun-2022]	[11:44:35] osvaldo#8952 Restarting Bot
+[17-Jun-2022]	[11:44:42] ---SYSTEM--- StonksBot#2363 is ready
+[17-Jun-2022]	[11:44:44] osvaldo#8952 Requesting Daily Movers
+[17-Jun-2022]	[11:45:02] osvaldo#8952 Requesting Daily Movers
+[17-Jun-2022]	[11:45:26] osvaldo#8952 Status 3 displayed
+[17-Jun-2022]	[12:55:29] osvaldo#8952 Requesting Daily Movers
+[17-Jun-2022]	[12:56:28] osvaldo#8952 Request IHSG price
+[17-Jun-2022]	[22:50:11] osvaldo#8952 Set coin to USDTBIDR
+[17-Jun-2022]	[23:02:51] osvaldo#8952 Set coin to BTCUSDT
+[18-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[18-Jun-2022]	[13:22:25] osvaldo#8952 Set coin to USDTBIDR
+[18-Jun-2022]	[13:23:02] osvaldo#8952 Set coin to ETHUSDT
+[18-Jun-2022]	[13:23:33] osvaldo#8952 Requesting Daily Movers
+[18-Jun-2022]	[13:49:13] osvaldo#8952 Set coin to BTCUSDT
+[19-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[19-Jun-2022]	[22:34:44] osvaldo#8952 Restarting Bot
+[19-Jun-2022]	[22:34:52] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jun-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jun-2022]	[9:46:10] osvaldo#8952 Requesting Daily Movers
+[20-Jun-2022]	[14:40:24] osvaldo#8952 Delete 90 messages on dion's server
+[20-Jun-2022]	[14:53:21] osvaldo#8952 Displaying watchlist on trade
+[20-Jun-2022]	[14:53:33] osvaldo#8952 Removing ARTO on trade
+[20-Jun-2022]	[14:53:53] osvaldo#8952 Set BDMN plan on trade
+[20-Jun-2022]	[22:51:38] osvaldo#8952 Reset watchlist on GYP
+[21-Jun-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[21-Jun-2022]	[20:52:51] osvaldo#8952 Reset watchlist on dion's server
+[21-Jun-2022]	[20:53:06] osvaldo#8952 Delete 90 messages on dion's server
+[22-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[22-Jun-2022]	[10:50:26] osvaldo#8952 Delete 5 messages on osvaldo's server
+[22-Jun-2022]	[10:50:28] osvaldo#8952 Requesting Daily Movers
+[22-Jun-2022]	[17:50:57] ---SYSTEM--- StonksBot#2363 is ready
+[22-Jun-2022]	[20:14:49] ---SYSTEM--- StonksBot#2363 is ready
+[22-Jun-2022]	[23:54:01] ---SYSTEM--- StonksBot#2363 is ready
+[23-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[23-Jun-2022]	[11:27:10] osvaldo#8952 Requesting Daily Movers
+[24-Jun-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[25-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[26-Jun-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[26-Jun-2022]	[11:29:26] osvaldo#8952 Restarting Bot
+[26-Jun-2022]	[11:29:33] ---SYSTEM--- StonksBot#2363 is ready
+[26-Jun-2022]	[22:14:35] osvaldo#8952 Restarting Bot
+[26-Jun-2022]	[22:14:42] ---SYSTEM--- StonksBot#2363 is ready
+[27-Jun-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[28-Jun-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[29-Jun-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[30-Jun-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[01-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[02-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[02-Jul-2022]	[23:33:26] osvaldo#8952 Set coin to AAVEUSDT
+[02-Jul-2022]	[23:33:43] osvaldo#8952 Set coin to BTCUSDT
+[03-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[04-Jul-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[05-Jul-2022]	[7:35:17] ---SYSTEM--- StonksBot#2363 is ready
+[06-Jul-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[07-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[07-Jul-2022]	[10:03:33] osvaldo#8952 Requesting Daily Movers
+[08-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jul-2022]	[13:01:13] osvaldo#8952 Updated Stock List
+[09-Jul-2022]	[7:35:15] ---SYSTEM--- StonksBot#2363 is ready
+[09-Jul-2022]	[18:55:41] ---SYSTEM--- StonksBot#2363 is ready
+[10-Jul-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[11-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[12-Jul-2022]	[7:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[13-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[14-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[15-Jul-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[15-Jul-2022]	[9:04:32] osvaldo#8952 Requesting Daily Movers
+[16-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jul-2022]	[20:37:15] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jul-2022]	[20:38:48] osvaldo#8952 Updated Stock List
+[16-Jul-2022]	[20:39:00] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jul-2022]	[20:39:04] osvaldo#8952 Ask TRGU on osvaldo's server
+[17-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[18-Jul-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[19-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jul-2022]	[4:41:40] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jul-2022]	[21:14:26] ---SYSTEM--- StonksBot#2363 is ready
+[21-Jul-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[22-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[23-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[24-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[25-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[26-Jul-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[27-Jul-2022]	[6:35:01] ---SYSTEM--- StonksBot#2363 is ready
+[27-Jul-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[27-Jul-2022]	[23:45:47] osvaldo#8952 Requesting Daily Movers
+[28-Jul-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[29-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[30-Jul-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[30-Jul-2022]	[12:39:39] ---SYSTEM--- StonksBot#2363 is ready
+[30-Jul-2022]	[12:39:53] osvaldo#8952 Requesting Daily Movers
+[31-Jul-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[31-Jul-2022]	[17:02:28] ---SYSTEM--- StonksBot#2363 is ready
+[31-Jul-2022]	[17:19:36] osvaldo#8952 Restarting Bot
+[31-Jul-2022]	[17:19:43] ---SYSTEM--- StonksBot#2363 is ready
+[01-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[01-Aug-2022]	[23:05:34] osvaldo#8952 Restarting Bot
+[01-Aug-2022]	[23:05:43] ---SYSTEM--- StonksBot#2363 is ready
+[02-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[04-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[05-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[05-Aug-2022]	[15:36:07] osvaldo#8952 Requesting Daily Movers
+[06-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[06-Aug-2022]	[10:40:14] osvaldo#8952 Updated Stock List
+[06-Aug-2022]	[10:40:18] osvaldo#8952 Restarting Bot
+[06-Aug-2022]	[10:40:26] ---SYSTEM--- StonksBot#2363 is ready
+[06-Aug-2022]	[10:40:30] osvaldo#8952 Requesting Daily Movers
+[06-Aug-2022]	[10:40:55] osvaldo#8952 Ask RAFI on osvaldo's server
+[06-Aug-2022]	[10:40:59] osvaldo#8952 Ask HATM on osvaldo's server
+[06-Aug-2022]	[10:41:04] osvaldo#8952 Ask IHSG on osvaldo's server
+[06-Aug-2022]	[10:41:11] osvaldo#8952 Ask SWID on osvaldo's server
+[06-Aug-2022]	[10:41:24] osvaldo#8952 Ask AXIO on osvaldo's server
+[06-Aug-2022]	[10:41:36] osvaldo#8952 Ask ZYRX on osvaldo's server
+[07-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[08-Aug-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[08-Aug-2022]	[13:20:34] osvaldo#8952 Request KKGI price
+[08-Aug-2022]	[19:36:14] osvaldo#8952 Updated Stock List
+[09-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[09-Aug-2022]	[13:21:14] osvaldo#8952 Ask JARR on osvaldo's server
+[10-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[11-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[12-Aug-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[13-Aug-2022]	[7:35:25] ---SYSTEM--- StonksBot#2363 is ready
+[13-Aug-2022]	[10:37:51] osvaldo#8952 Updated Stock List
+[13-Aug-2022]	[10:37:59] osvaldo#8952 Restarting Bot
+[13-Aug-2022]	[10:38:09] ---SYSTEM--- StonksBot#2363 is ready
+[14-Aug-2022]	[7:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[15-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[16-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[16-Aug-2022]	[21:05:22] osvaldo#8952 Restarting Bot
+[16-Aug-2022]	[21:05:31] ---SYSTEM--- StonksBot#2363 is ready
+[17-Aug-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[17-Aug-2022]	[8:44:27] osvaldo#8952 Turned Off Reminder
+[17-Aug-2022]	[8:44:33] osvaldo#8952 Restarting Bot
+[17-Aug-2022]	[8:44:36] ---SYSTEM--- Day Off Stock Market Closed Today !
+[17-Aug-2022]	[8:44:40] ---SYSTEM--- StonksBot#2363 is ready
+[17-Aug-2022]	[11:54:49] osvaldo#8952 Turned On Reminder
+[17-Aug-2022]	[18:05:26] osvaldo#8952 Restarting Bot
+[17-Aug-2022]	[18:05:37] ---SYSTEM--- StonksBot#2363 is ready
+[17-Aug-2022]	[22:59:04] osvaldo#8952 Restarting Bot
+[17-Aug-2022]	[22:59:12] ---SYSTEM--- StonksBot#2363 is ready
+[18-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[19-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[19-Aug-2022]	[23:40:48] osvaldo#8952 Restarting Bot
+[19-Aug-2022]	[23:40:55] ---SYSTEM--- StonksBot#2363 is ready
+[20-Aug-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[20-Aug-2022]	[10:40:29] osvaldo#8952 Requesting info in osvaldo's server
+[20-Aug-2022]	[10:40:30] ---SYSTEM--- StonksBot#2363 is ready
+[20-Aug-2022]	[10:40:55] osvaldo#8952 Requesting Daily Movers
+[20-Aug-2022]	[10:41:20] osvaldo#8952 Requesting Daily Movers
+[20-Aug-2022]	[10:41:43] osvaldo#8952 Request ADMR price
+[21-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[22-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[23-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[24-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[25-Aug-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[26-Aug-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[27-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[28-Aug-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[29-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[30-Aug-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[31-Aug-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[01-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[01-Sep-2022]	[9:20:22] osvaldo#8952 Updated Stock List
+[02-Sep-2022]	[7:35:14] ---SYSTEM--- StonksBot#2363 is ready
+[02-Sep-2022]	[17:24:01] osvaldo#8952 Requesting info in trade
+[02-Sep-2022]	[20:38:44] ---SYSTEM--- StonksBot#2363 is ready
+[03-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Sep-2022]	[20:42:16] osvaldo#8952 Restarting Bot
+[03-Sep-2022]	[20:42:24] ---SYSTEM--- StonksBot#2363 is ready
+[04-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[05-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[05-Sep-2022]	[21:19:08] osvaldo#8952 Restarting Bot
+[05-Sep-2022]	[21:19:16] ---SYSTEM--- StonksBot#2363 is ready
+[06-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[07-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[08-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[09-Sep-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[10-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[11-Sep-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[12-Sep-2022]	[7:35:19] ---SYSTEM--- StonksBot#2363 is ready
+[13-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[14-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[15-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[16-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[17-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[18-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[18-Sep-2022]	[15:21:24] ---SYSTEM--- StonksBot#2363 is ready
+[19-Sep-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[20-Sep-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[21-Sep-2022]	[8:09:11] ---SYSTEM--- StonksBot#2363 is ready
+[22-Sep-2022]	[7:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[23-Sep-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[24-Sep-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[25-Sep-2022]	[7:35:24] ---SYSTEM--- StonksBot#2363 is ready
+[26-Sep-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[26-Sep-2022]	[22:27:59] osvaldo#8952 Updated Stock List
+[26-Sep-2022]	[22:51:13] osvaldo#8952 Requesting Daily Movers
+[27-Sep-2022]	[7:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[27-Sep-2022]	[15:15:41] osvaldo#8952 Set coin to ETHUSDT
+[27-Sep-2022]	[15:16:06] osvaldo#8952 Set coin to BTCUSDT
+[28-Sep-2022]	[7:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[29-Sep-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[29-Sep-2022]	[7:45:25] ADMIN Stonksbot kicked from dion's server
+[30-Sep-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[01-Oct-2022]	[7:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[02-Oct-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[03-Oct-2022]	[20:09:10] ---SYSTEM--- StonksBot#2363 is ready
+[03-Oct-2022]	[20:10:38] ---SYSTEM--- StonksBot#2363 is ready
+[03-Oct-2022]	[20:11:01] ---SYSTEM--- StonksBot#2363 is ready
+[04-Oct-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[05-Oct-2022]	[7:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[06-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[07-Oct-2022]	[7:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[08-Oct-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[09-Oct-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[10-Oct-2022]	[22:38:52] ---SYSTEM--- StonksBot#2363 is ready
+[11-Oct-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[12-Oct-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[13-Oct-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[14-Oct-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[15-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[16-Oct-2022]	[7:35:14] ---SYSTEM--- StonksBot#2363 is ready
+[17-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[18-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[19-Oct-2022]	[7:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[20-Oct-2022]	[7:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[21-Oct-2022]	[7:35:14] ---SYSTEM--- StonksBot#2363 is ready
+[22-Oct-2022]	[7:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[23-Oct-2022]	[0:16:51] ---SYSTEM--- StonksBot#2363 is ready
+[23-Oct-2022]	[0:48:04] ---SYSTEM--- StonksBot#2363 is ready
+[23-Oct-2022]	[0:49:59] ---SYSTEM--- StonksBot#2363 is ready
+[23-Oct-2022]	[0:50:14] osvaldo#8952 Set coin to ETHUSDT
+[23-Oct-2022]	[1:01:11] ---SYSTEM--- StonksBot#2363 is ready
+[23-Oct-2022]	[1:03:26] osvaldo#8952 Set coin to BTCUSDT
+[23-Oct-2022]	[7:35:15] ---SYSTEM--- StonksBot#2363 is ready
+[24-Oct-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[24-Oct-2022]	[14:32:05] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Oct-2022]	[14:32:12] osvaldo#8952 Set AGRO plan on osvaldo's server
+[24-Oct-2022]	[14:32:15] osvaldo#8952 Displaying watchlist on osvaldo's server
+[24-Oct-2022]	[14:32:20] osvaldo#8952 Reset watchlist on osvaldo's server
+[25-Oct-2022]	[7:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[26-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[27-Oct-2022]	[7:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[28-Oct-2022]	[4:49:10] ---SYSTEM--- StonksBot#2363 is ready
+[28-Oct-2022]	[7:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[29-Oct-2022]	[7:35:23] ---SYSTEM--- StonksBot#2363 is ready
+[30-Oct-2022]	[7:35:20] ---SYSTEM--- StonksBot#2363 is ready
+[31-Oct-2022]	[9:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[01-Nov-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[02-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[02-Nov-2022]	[19:51:48] ---SYSTEM--- StonksBot#2363 is ready
+[03-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[04-Nov-2022]	[9:35:15] ---SYSTEM--- StonksBot#2363 is ready
+[05-Nov-2022]	[9:35:15] ---SYSTEM--- StonksBot#2363 is ready
+[06-Nov-2022]	[9:35:23] ---SYSTEM--- StonksBot#2363 is ready
+[07-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[08-Nov-2022]	[6:50:40] ---SYSTEM--- StonksBot#2363 is ready
+[08-Nov-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[08-Nov-2022]	[16:20:34] osvaldo#8952 Updated Stock List
+[09-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[10-Nov-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[11-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[12-Nov-2022]	[9:35:25] ---SYSTEM--- StonksBot#2363 is ready
+[12-Nov-2022]	[18:23:29] osvaldo#8952 Restarting Bot
+[12-Nov-2022]	[18:23:37] ---SYSTEM--- StonksBot#2363 is ready
+[13-Nov-2022]	[9:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[14-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[15-Nov-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[16-Nov-2022]	[9:35:13] ---SYSTEM--- StonksBot#2363 is ready
+[17-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[18-Nov-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[19-Nov-2022]	[9:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[19-Nov-2022]	[20:51:17] ---SYSTEM--- StonksBot#2363 is ready
+[20-Nov-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[21-Nov-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[22-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[23-Nov-2022]	[9:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[24-Nov-2022]	[9:30:44] osvaldo#8952 Restarting Bot
+[24-Nov-2022]	[9:30:51] ---SYSTEM--- StonksBot#2363 is ready
+[24-Nov-2022]	[9:35:04] ---SYSTEM--- StonksBot#2363 is ready
+[25-Nov-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[26-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[27-Nov-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[28-Nov-2022]	[9:35:12] ---SYSTEM--- StonksBot#2363 is ready
+[29-Nov-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[30-Nov-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[01-Dec-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[02-Dec-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Dec-2022]	[9:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[04-Dec-2022]	[9:35:15] ---SYSTEM--- StonksBot#2363 is ready
+[05-Dec-2022]	[1:24:10] ---SYSTEM--- StonksBot#2363 is ready
+[05-Dec-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[05-Dec-2022]	[10:52:46] ---SYSTEM--- StonksBot#2363 is ready
+[06-Dec-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[07-Dec-2022]	[9:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[08-Dec-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[08-Dec-2022]	[20:36:29] osvaldo#8952 Ask KIJA on osvaldo's server
+[08-Dec-2022]	[20:36:43] osvaldo#8952 Request KIJA price
+[09-Dec-2022]	[9:35:22] ---SYSTEM--- StonksBot#2363 is ready
+[10-Dec-2022]	[9:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[10-Dec-2022]	[23:31:36] osvaldo#8952 Restarting Bot
+[10-Dec-2022]	[23:31:53] ---SYSTEM--- StonksBot#2363 is ready
+[12-Dec-2022]	[18:04:37] ---SYSTEM--- StonksBot#2363 is ready
+[13-Dec-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[13-Dec-2022]	[23:58:40] ---SYSTEM--- StonksBot#2363 is ready
+[14-Dec-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[15-Dec-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[16-Dec-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[19-Dec-2022]	[23:27:36] ---SYSTEM--- StonksBot#2363 is ready
+[20-Dec-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[20-Dec-2022]	[12:07:44] osvaldo#8952 Updated Stock List
+[20-Dec-2022]	[12:30:10] osvaldo#8952 Restarting Bot
+[20-Dec-2022]	[12:30:19] ---SYSTEM--- StonksBot#2363 is ready
+[20-Dec-2022]	[12:30:38] osvaldo#8952 Status 3 displayed
+[21-Dec-2022]	[9:35:21] ---SYSTEM--- StonksBot#2363 is ready
+[21-Dec-2022]	[14:17:22] osvaldo#8952 Requesting Daily Movers
+[22-Dec-2022]	[9:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[23-Dec-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[24-Dec-2022]	[9:35:22] ---SYSTEM--- StonksBot#2363 is ready
+[25-Dec-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[26-Dec-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[27-Dec-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[28-Dec-2022]	[14:09:49] ---SYSTEM--- StonksBot#2363 is ready
+[29-Dec-2022]	[12:38:01] ---SYSTEM--- StonksBot#2363 is ready
+[29-Dec-2022]	[12:38:51] osvaldo#8952 Status 3 displayed
+[30-Dec-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[31-Dec-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[01-Jan-2022]	[9:35:11] ---SYSTEM--- StonksBot#2363 is ready
+[02-Jan-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[03-Jan-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[04-Jan-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[05-Jan-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[06-Jan-2022]	[9:35:16] ---SYSTEM--- StonksBot#2363 is ready
+[07-Jan-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jan-2022]	[12:13:15] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jan-2022]	[12:51:49] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jan-2022]	[12:53:38] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jan-2022]	[12:58:14] ---SYSTEM--- StonksBot#2363 is ready
+[08-Jan-2022]	[12:59:38] osvaldo#8952 Updated Stock List
+[09-Jan-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[11-Jan-2022]	[15:57:08] ---SYSTEM--- StonksBot#2363 is ready
+[12-Jan-2022]	[12:48:35] ---SYSTEM--- StonksBot#2363 is ready
+[13-Jan-2022]	[9:35:06] ---SYSTEM--- StonksBot#2363 is ready
+[13-Jan-2022]	[15:21:08] osvaldo#8952 Requesting Daily Movers
+[14-Jan-2022]	[9:35:09] ---SYSTEM--- StonksBot#2363 is ready
+[14-Jan-2022]	[23:39:34] ---SYSTEM--- StonksBot#2363 is ready
+[15-Jan-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[16-Jan-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[17-Jan-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[18-Jan-2022]	[9:35:08] ---SYSTEM--- StonksBot#2363 is ready
+[19-Jan-2022]	[9:35:07] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jan-2022]	[9:35:22] ---SYSTEM--- StonksBot#2363 is ready
+[20-Jan-2022]	[15:51:17] osvaldo#8952 Turned Off Reminder
+[21-Jan-2022]	[9:35:05] ---SYSTEM--- Day Off Stock Market Closed Today !
+[21-Jan-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
+[22-Jan-2022]	[9:35:06] ---SYSTEM--- Day Off Stock Market Closed Today !
+[22-Jan-2022]	[9:35:10] ---SYSTEM--- StonksBot#2363 is ready
