@@ -16,6 +16,7 @@ This is a Discord bot developed by Dion Osvaldo Hananto to fulfill the requireme
 8. Crypto coin prices: When the stock market is closed, the bot can display real-time cryptocurrency prices as the status on Discord.
 9. Crypto price tracking: The bot can track and record price movements of cryptocurrencies.
 10. IPO ticker detection: The bot can automatically retrieve data for newly listed IPO tickers in the Indonesian stock market.
+11. Daily Gainer and Loser : The bot can automatically scraping the top 10 company that are the best top 10 gainer and loser in that day. The bot sends the Daily Gainer and Loser to the specific discord server.
 
 ## Usage Limitation
 
@@ -41,3 +42,52 @@ The bot is also capable of automatically fetching data for newly listed IPO tick
 - Discord.py: The `discord.py` library is used for interacting with the Discord API.
 - JavaScript: Puppeteer is utilized for web scraping of real-time stock data and news.
 - JSON: The bot utilizes JSON as the database for storing data.
+
+## Discord Screenshot
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss1.jpg" alt="guide">
+    <br>
+    <em>User Guide</em>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss2.jpg" alt="private watchlist">
+    <br>
+    <em>Private watchlist feature</em>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss3.jpg" alt="Price action">
+    <br>
+    <em>User requesting price on GOTO stock</em>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss4.jpg" alt="PNL">
+    <br>
+    <em>Daily Gainer and Loser</em>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss5.jpg" alt="General watchlist">
+    <br>
+    <em>Watchlist in the server</em>
+  </div>
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss6.jpg" alt="After">
+    <br>
+    <em>Daily news</em>
+  </div>
+</div>
+
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="./screenshot/ss7.jpg" alt="Reminder">
+    <br>
+    <em>Bot reminder</em>
+  </div>
+</div>
